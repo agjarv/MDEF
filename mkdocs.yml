@@ -10,7 +10,19 @@ repo_url: 'https://github.com/agjarv/MDEF'
 
 theme:
   name: material
-  
+
+   palette:
+    # try other colors from https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    primary: black
+    accent: amber
+  font:
+    # See available fonts from https://fonts.google.com/
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/alpha-x-box-outline
+    repo: material/gitlab
+  favicon: images/alpha-x-box.png 
   
   features:
     - navigation.tabs
