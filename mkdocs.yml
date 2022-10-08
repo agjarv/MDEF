@@ -10,8 +10,7 @@ repo_url: 'https://github.com/agjarv/MDEF'
 
 theme:
   name: material
-primary: black
-    accent: amber
+
   palette:
 
     # Palette toggle for light mode
