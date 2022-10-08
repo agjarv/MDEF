@@ -10,12 +10,15 @@ repo_url: 'https://github.com/agjarv/MDEF'
 
 theme:
   name: material
-
+primary: black
+    accent: amber
   palette:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: black
+      accent: amber
       toggle: 
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -23,6 +26,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: deep purple
+      accent: amber
       toggle: 
         icon: material/weather-night
         name: Switch to light mode
