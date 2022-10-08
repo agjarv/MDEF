@@ -12,8 +12,6 @@ theme:
   name: material
 
   palette:
-    primary: black
-    accent: amber
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
