@@ -1,1 +1,28 @@
-site_name: My Docs
+site_name: Amanda Jarvis - MDEF Docs
+site_description: Master in Design for Emergent Futures
+site_author: Amanda Jarvis
+copyright: Copyleft 2022 "Amanda Jarvis" - GNU Free Documentation License
+repo_name: 'Page Source'
+site_url: https://agjarv.github.io/MDEF/
+repo_url: 'https://github.com/agjarv/MDEF'
+
+
+
+theme:
+  name: material
+
+
+
+  extra:
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/agjarv
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/agjarv/
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<agjarv@gmail.com>
+    - icon: fontawesome/solid/globe
+      link: https://couture.tech
+    - icon: fontawesome/brands/github
+      link: "https://github.com/agjarv/"
