@@ -17,10 +17,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  #icon:
- #   logo: material/alpha-x-box-outline
- #   repo: material/gitlab
- # favicon: images/alpha-x-box.png
+  icon:
+    logo: material/alpha-x-box-outline
+    repo: material/gitlab
+  favicon: images/alpha-x-box.png
   
   features:
     - navigation.tabs
