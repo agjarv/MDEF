@@ -93,6 +93,8 @@ nav:
 
 markdown_extensions:
 
+  #tables enables by default but adding here just in case
+  - tables
   # Python Markdown
   - abbr
   - admonition

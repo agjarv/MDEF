@@ -7,3 +7,7 @@ The first term started in October 2022. In this first week we were introduced to
 For our first assignment we were asked to identify an issue, concern, cause or particular interest that we felt strongly about. From this idea we were asked to create a poster and bring it to the first day of class. 
 
 ## Vision, collaboration plan and personal development
+
+|   Course        |  What I want to practice        |  What I want to learn         |  Reflecting on motivation          |
+|:----------------|:--------------------------------|:------------------------------|:-----------------------------------|
+| Atlas of Weak Signals   | Getting used to putting myself and my daily life in context of current trends |  Want to learn what it means to be hyper local | openness to connecting daily life to the future |
