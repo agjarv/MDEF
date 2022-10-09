@@ -36,12 +36,18 @@ For this section we were first asked to describe our professional identity in te
 ![Reflections of my Classmates](../images/term-01/bootcamp/reflectionsinterviews.png)
 ![Professional and personal skills](../images/term-01/bootcamp/professionalskills.png)
 
-### Map of MDEF Courses
+### Map of MDEF Personal Development Plan
 
-For this part of the assignment we were asked to map the courses we are taking this trimester in terms of what we want to get out for the program. I chose to think if each course in terms of what I  want to practice, what I want to learn from each, and reflecting on my motivations for this. Lastly we were asked to justify and describe a personal development plan for the master program. 
+For this part of the assignment we were asked to map the courses we are taking this trimester in terms of what we want to get out for the program. 
 
-|   Course        |  What I want to practice        |  What I want to learn         |  Reflecting on motivation          |
-|:----------------|:--------------------------------|:------------------------------|:-----------------------------------|
-| Atlas of Weak Signals   | Getting used to putting myself and my daily life in context of current trends |  Want to learn what it means to be hyper local | openness to connecting daily life to the future |
+|   Weekly Course   |  Skills / Tools               |  Methods / Knowledge          | Goals / To be                 |
+|:------------------|:------------------------------|:------------------------------|:------------------------------|
+| 01 - Bootcamp     |            |        |       |
+| 02 - Atlas of Weak Signals | Getting used to putting myself and my daily life in context of current trends | Want to learn how to be hyper local | openness to connecting daily life to the future |
+| 03/04 Biology & Agri zero |          |        |       |
+| 05 - Living with your ideas |      |      |     |
+| 06/07 - Tech beyond the Myth |      |      |      |
+| 08 - Community Engagement |         |        |       |
+| 09/10 - Extended Intelligences |       |        |       |
+| 11/12 - Design Dialogues |      |      |      |
 
-#### MDEF Personal Development Plan
