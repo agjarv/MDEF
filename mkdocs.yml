@@ -86,4 +86,4 @@ nav:
   - Reflections: 
     - reflections/index.md
     - Term 1: term01/term01.md
-      - Bootcamp: term01/bootcamp.md
+    #  - Bootcamp: term01/bootcamp.md
