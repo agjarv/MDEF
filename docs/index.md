@@ -33,7 +33,7 @@ As my final project for the global [Fabricademy Course](https://textile-academy.
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/696352610?h=00319e7aab&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Draft4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![Pneumatic Backpack Prototype](images/backpack.png)
-![Miniature Rag Harp Prototype](images/seasonalculturefinal.png.png)
+![Seasonal culture costume prototype](images/seasonalculturefinal.png)
 
 ### Motion MIDI
 Motion MIDI is an interactive wearable device that transforms data from an accelerometer into music. The MIDI notes are wirelessly transmitted via Bluetooth to any computer or mobile device permitting use of many audio software applications. This device was co-designed with artists, performers, and a software engineer for an ongoing Open Source Interfaces project with the purpose of creating tools for artists and designers to explore alternative ways of interfacing with a computer. Find code for Motion Midi on [GitHub](https://github.com/jarvisb1/ble_midi_9dof)
