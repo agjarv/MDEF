@@ -60,7 +60,7 @@ theme:
     - toc.follow
     # - toc.integrate
 
- extra:
+extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/agjarv
