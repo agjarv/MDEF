@@ -23,7 +23,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: green
       accent: amber
       toggle: 
         icon: material/weather-night
@@ -75,6 +75,9 @@ extra:
 
 plugins:
   - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+     # enabled: !ENV [CI, false]
 
 # navigation tree
 
