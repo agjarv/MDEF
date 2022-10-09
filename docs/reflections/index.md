@@ -1,18 +1,7 @@
 # Reflections
 
+This section contains documentation for my first three terms in the Master in Design for Emergent Futures Program. The documentation here captures ideas, thoughts, prototypes and everything else created as I go through the course. 
+
+## Projects that inspire me
 
 
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

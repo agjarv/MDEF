@@ -1,4 +1,4 @@
-site_name: Amanda Jarvis - MDEF Docs
+site_name: Amanda Jarvis - MDEF Documentation
 site_description: Master in Design for Emergent Futures
 site_author: Amanda Jarvis
 copyright: Copyleft 2022 "Amanda Jarvis" - GNU Free Documentation License
@@ -86,3 +86,4 @@ nav:
   - Reflections: 
     - reflections/index.md
     - Term 1: term01/term01.md
+      - Bootcamp: term01/bootcamp.md
