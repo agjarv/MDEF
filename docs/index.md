@@ -18,7 +18,7 @@ I approach the act of making as a way to interface with the world and connect wi
 
 ## My background
 
-I grew up on a farm in the High Plains of western Oklahoma. My grandma started teaching me to sew my own clothes at the age of 9. Having the skills to make my own clothes empowered me to make things way beyond what I could buy in stores. As a teenager I would bring issues of Vogue magazine with me on the tractor while working on the family farm. The combination of my interest in fashion and connection to the land through agriculture led me to develop a passion for sustainable fashion. Through this course I would like to further explore the connection between fashion, the body, and the land. 
+I grew up on a farm in the High Plains of western Oklahoma. My grandma started teaching me to sew my own clothes at the age of 9. Having the skills to make my own clothes empowered me to make things way beyond what I could buy in stores. Since then I have been a lifelong collector of hobbies. 
  
 I took a more non-traditional path with my education studying Fashion Marketing, Business, Costume Design/Theater, and Sculpture. I received an interdisciplinary studies degree in Design for Emerging Technology in the Arts in 2020. In my professional life I have worn many hats including starting a handmade jewelry business, costume design, and managing a university makerspace. 
 
