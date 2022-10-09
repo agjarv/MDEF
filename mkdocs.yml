@@ -80,5 +80,6 @@ plugins:
 
 nav:
   - Home: index.md
-    - About: 
-    - about/index.md
+  - Reflections: 
+    - reflections/index.md
+    - Term 1: term01/term01.md
