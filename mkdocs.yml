@@ -81,4 +81,4 @@ plugins:
 nav:
   - Home: index.md
     - About: 
-    - about/about.md
+    - about/index.md
