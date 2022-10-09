@@ -61,17 +61,18 @@ theme:
     # - toc.integrate
 
 
- extra:
-  social:
-    - icon: fontawesome/brands/instagram
-      link: https://instagram.com/agjarv
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/agjarv/
-    - icon: fontawesome/solid/paper-plane
-      link: mailto:<agjarv@gmail.com>
-    - icon: fontawesome/solid/globe
-      link: https://couture.tech
-    - icon: fontawesome/brands/github
-      link: "https://github.com/agjarv/"
+# extra:
+#  social:
+#    - icon: fontawesome/brands/instagram
+#      link: https://instagram.com/agjarv
+#    - icon: fontawesome/brands/linkedin
+#      link: https://www.linkedin.com/in/agjarv/
+#    - icon: fontawesome/solid/paper-plane
+#      link: mailto:<agjarv@gmail.com>
+#    - icon: fontawesome/solid/globe
+#      link: https://couture.tech
+#    - icon: fontawesome/brands/github
+#      link: "https://github.com/agjarv/"
+
 plugins:
   - search
