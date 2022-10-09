@@ -85,5 +85,6 @@ nav:
   - Home: index.md
   - Reflections: 
     - reflections/index.md
-    - Term 1: term01/term01.md
-    #  - Bootcamp: term01/bootcamp.md
+    - Term 1:
+      - Bootcamp: term01/bootcamp.md
+      - Atlas of Weak Signals (AoWS): term01/term01.md
