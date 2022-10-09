@@ -2,10 +2,9 @@ site_name: Amanda Jarvis - MDEF Docs
 site_description: Master in Design for Emergent Futures
 site_author: Amanda Jarvis
 copyright: Copyleft 2022 "Amanda Jarvis" - GNU Free Documentation License
-repo_name: 'Page Source'
+repo_name: 'agjarv/MDEF'
 site_url: https://agjarv.github.io/MDEF/
 repo_url: 'https://github.com/agjarv/MDEF'
-
 
 
 theme:
@@ -31,18 +30,38 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
   font:
-    text: Roboto
+    text: Noto Sans
     code: Roboto Mono
   icon:
     logo: material/alpha-x-box-outline
     repo: material/gitlab
   favicon: images/alpha-x-box.png
   
+  
+  language: en
   features:
+    # - announce.dismiss
+    - content.code.annotate
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.prune
+    - navigation.sections
     - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+    # - toc.integrate
 
 
-  extra:
+ extra:
   social:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/agjarv
@@ -54,3 +73,5 @@ theme:
       link: https://couture.tech
     - icon: fontawesome/brands/github
       link: "https://github.com/agjarv/"
+plugins:
+  - search
