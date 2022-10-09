@@ -80,4 +80,5 @@ plugins:
 
 nav:
   - Home: index.md
-    - About: about/about.md
+    - About: 
+    - about/about.md
