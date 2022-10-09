@@ -1,16 +1,9 @@
-# About
- About me
+# Welcome
 
-## Commands
+Welcome to my documentation website for my journey through the Master in Design for Emergent Futures program. I started this journey in October 2022. I was thrilled to move to Barcelona to create alongside 25 other amazing people. You can see the documentation websites for the rest of my co-hort on the [MDEF 2022-2023 Website] (https://fablabbcn.github.io/mdef-docs/academic_year_2022_23/students_websites/). 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Master in Design for Emergent Futures
 
-## Project layout
+ More about the program can be found on the [Master in Design for Emergent Futures site] (https://fablabbcn.org/education/master/master-in-design-for-emergent-futures).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
