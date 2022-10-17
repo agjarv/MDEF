@@ -12,18 +12,7 @@ I have a dream in the future to open an inclusive community makerspace centered 
 
 ![My fight poster](../images/term-01/bootcamp/RegenerationSpace.png)
 
-## Assignment: Vision, collaboration plan and personal development
-
-Assignment: Create your own personal development plan for the master (1st Trimester).
-
-- Create your design vision of how our (social) world could be in the (near) future
-- Describe your professional identity in terms of skills, knowledge and attitude.
-- Reflect on the “meetings” by analyzing what attracts you from their skills, knowledge and attitude
-- Based on your vision and what attracts you from the “meetings” create your desired professional
-identity
-- Map the courses we are having this trimester in terms of what you have learned (for the past ones),
-and what you would like to learn (ones to come).
-- Justify and describe your personal development plan for the master program
+## Vision, collaboration plan and personal development
 
 
 ### Vision
@@ -47,8 +36,8 @@ For this part of the assignment we were asked to map the courses we are taking t
 |   Weekly Course   |  Skills / Tools               |  Methods / Knowledge          | Goals / To be                 |
 |:------------------|:------------------------------|:------------------------------|:------------------------------|
 | 01 - Bootcamp     |      Setting up documentation website using git    |   Learning about classmates via interviews     |  documenting everything!     |
-| 02 - Atlas of Weak Signals | Learn how to use the Atlas of weak signals as a tool to discover design interventions in the world | Want to learn what it means to be hyper local| openness to connecting daily life to the future |
-| 03/04 Biology & Agri zero |          |        |       |
+| 02 - Atlas of Weak Signals | Learn how to use the Atlas of weak signals as a tool to discover design interventions in the world | Want to learn what it means to be hyper local| open to connecting daily life to the future |
+| 03/04 Biology & Agri zero |  exploring microscopic organisms, biohacking, bioplastics, robotics in agriculture        |   connecting my history of growing up on a farm to the future of agriculture     |       |
 | 05 - Living with your ideas |      |      |     |
 | 06/07 - Tech beyond the Myth |      |      |      |
 | 08 - Community Engagement |         |        |       |
