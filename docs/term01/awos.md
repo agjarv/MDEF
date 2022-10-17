@@ -1,6 +1,9 @@
 # Weak Signals in the Wild
 
+
 ![](../images/term-01/AoWS/weaksignals.png)
+
+
 
 
 ## Design Board v0.9

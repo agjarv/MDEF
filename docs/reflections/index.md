@@ -7,7 +7,7 @@ hide:
 
 This section contains documentation for my first three terms in the Master in Design for Emergent Futures Program. The documentation here captures ideas, thoughts, prototypes and everything else created as I go through the course. 
 
-![](/docs/images/arttrash.png)
+![Art Trash](../images/arttrash.png)
 
 ## Projects that inspire me
 
