@@ -29,6 +29,10 @@ and what you would like to learn (ones to come).
 ### Vision
 My design vision for how our (social) world could be in the (near) future. 
 
+![My Vision](../images/term-01/bootcamp/MDEFVision.png)
+
+I believe that making is a sort of interface with the world around me. Making is how I connect to people and learn about all the ways we are interconnected with materials and nature. If we all had the time and resources to be makers I envision that we would be a more content and connected society. 
+
 ### Professional Identity
 
 For this section we were first asked to describe our professional identity in terms of our skills, knowledge, and attitudes. Next we had the opportunity to have conversations with our classmates in the form of interviews and reflect on what attracts us to their skills, knowledge, and attitudes. 
@@ -42,8 +46,8 @@ For this part of the assignment we were asked to map the courses we are taking t
 
 |   Weekly Course   |  Skills / Tools               |  Methods / Knowledge          | Goals / To be                 |
 |:------------------|:------------------------------|:------------------------------|:------------------------------|
-| 01 - Bootcamp     |            |        |       |
-| 02 - Atlas of Weak Signals | Getting used to putting myself and my daily life in context of current trends | Want to learn how to be hyper local | openness to connecting daily life to the future |
+| 01 - Bootcamp     |      Setting up documentation website using git    |   Learning about classmates via interviews     |  documenting everything!     |
+| 02 - Atlas of Weak Signals | Learn how to use the Atlas of weak signals as a tool to discover design interventions in the world | Want to learn what it means to be hyper local| openness to connecting daily life to the future |
 | 03/04 Biology & Agri zero |          |        |       |
 | 05 - Living with your ideas |      |      |     |
 | 06/07 - Tech beyond the Myth |      |      |      |
