@@ -4,7 +4,9 @@ In the rural schools of the small towns I grew up in the high school and element
 
 About a year later my mother married my stepfather and we moved to their farm. I spent the rest of my childhood getting my hands dirty while helping the family raise cattle and grow wheat and sorghum. This sort of labor is hard work and I never dreamed of doing it for the rest of my life. I was essentially counting down the days until I graduated high school and could move as far away from farming life as possible. When I got older and moved to a city outside DC I met lots of friends who had spent most of their lives in the suburbs or urban life and they shared with me their dreams of growing their own food. At first I  found this to be pretty amusing then I realized that there is something very inhumane about being disconnected from our food. I think we want to be connected.... and the more connected we are the better it is for us and everything around us. 
 
-During these weeks on Biology and Agri Zero I am interested in exploring the micro and macro. The microscopic world around us offers so many possibilities for taking care of ourselves and the environment around us. I also want to think about the big systems and technologies we use to produce our food. I believe more of us need to get our hands dirty together to find scalable technologies to feed the planet. 
+This week I got to explore the micro and macro. The microscopic world around us offers so many possibilities for taking care of ourselves and the environment around us. I have been thinking about the big systems and technologies we use to produce our food. We were asked to select a couple photos from the week as a reflection. I made a collage of some of the hands and my classmates and myself getting our hands dirty over the last two weeks. 
+
+![Hands Collage](../images/term-01/bio-agri-zero/bio-agri-collage.png)
 
 
 ## Bio Lab Notes
@@ -18,6 +20,13 @@ On the first day we learned about DIY Biology and Biohacking. I learned that a l
 > 5 grams sugar
 > 20 grams agar 
 
-## Useful Links
+During the next week we got to visit several places including the PRBB biology labs where Nuria works and Materfad materials library. In addition to all of this we also received instruction on how to make bioplastics, kombucha and spirulina. 
+
+![Materfad](../images/term-01/bio-agri-zero/materfad.png)
+![Bio Lab](../images/term-01/bio-agri-zero/pcr-lab.png)
+
+## Agri Zero
+
+
 
 
