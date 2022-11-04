@@ -20,13 +20,18 @@ On the first day we learned about DIY Biology and Biohacking. I learned that a l
 > 5 grams sugar
 > 20 grams agar 
 
-During the next week we got to visit several places including the PRBB biology labs where Nuria works and Materfad materials library. In addition to all of this we also received instruction on how to make bioplastics, kombucha and spirulina. 
+
+During the next week we got to visit a couple places including the Complex Systems Laboratory at Universitat Pompeu Fabra (UPF) in the PRBB where Nuria works and Materfad materials library. In addition to all of this we also received instruction on how to make bioplastics, kombucha and spirulina. 
 
 ![Materfad](../images/term-01/bio-agri-zero/materfad.png)
 ![Bio Lab](../images/term-01/bio-agri-zero/pcr-lab.png)
 
 ## Agri Zero
 
+We also got to hear some lectures on sustainable agriculture of the future from our other instructor, Jonathan Minchin, and about his work on Open Source Beehives (OSBH) and Robotics for Microfarms (ROMI). 
 
+In the past 9 years I have really gotten into permaculture and home-scale organic farming. I have always wondered how practices like this could be scaled up to the sort of farming my parents practice. I asked Jonathan about this and mentioned that right now there aren't great ways to scale permaculture up for large grain crops. After some discussion with him he mentioned that we need to be adding complexity. I am now wondering if I have been asking the wrong questions about scale. In our culture we always want to know how to scale — grow — profit. So it comes natural for me to ask questions like this. How do we scale it up? But maybe we shouldn’t be scaling as all. The focus should be on adding or embracing complexity and diversity.
+
+Beekeeping is also something I have been interested in trying since I got into permaculture but never had the opportunity to do. As part of my permacultural explorations in past years I came across some possible complications of keeping honeybees as they might potentially threaten native bee populations. This week I found a recent article in Scientific American on ["The Problem with Honey Bees".]([https://www.scientificamerican.com/article/the-problem-with-honey-bees/]) In this article author Alison McAfee, a post-doctoral fellow in the Department of Entomology and Plant Pathology, at North Carolina State University, suggests that introduction of honeybee hives in an ecosystem reduces the amount of forage left available for native solitary bee populations and other pollinators. This could have an overall negative impact of biodiversity in the ecosystem. McAffee also mentioned that measuring the interactions of honeybees in a new ecosystem is a tricky thing to research as many parts of the world have already had honeybees introduced by human intervention. To explore this further I consulted an article published in 2019 in Nature titled ["Honeybees disrupt the structure and functionality of plant-pollinator networks".](https://www.nature.com/articles/s41598-019-41271-5#Sec3) where researchers introduced honeybees () intoI also wanted to look at an article published more recently and found one on "Density of invasive western honey bee (Apis mellifera) colonies in fragmented woodlands indicates potential for large impacts on native species" published earlier this year in Nature. 
 
 
