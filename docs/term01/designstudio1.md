@@ -1,5 +1,5 @@
-# Design Studio 1 - Roles of Prototyping
-
+# Design Studio
+## Roles of Prototyping
 For our first design studio we learned about the roles of prototyping in design research. We were introduced to four different roles and asked to reflect which types of prototyping we have used in our deign processes and which ones we are interested in exploring further. 
 
 The four roles of prototyping were defined as: 
@@ -27,7 +27,7 @@ Using prototypes as a vehicle for inquiry is also very appealing to me as well. 
 When I moved to Barcelona I had to leave many of my tools and materials I am used to working with behind. I brought a few programmable microcontrollers and materials for metalwork embroidery. I am currently exploring metalwork embroidery as a way to apply circuits to textiles. Luckily when we arrived to IAAC we received a soldering and electronics prototyping toolkit. 
 ![Tools](../images/term-01/ds1/workspace-tools.png)
 
-# Design Studio 3 - Communication Strategies
+## Communication Strategies
 
 **Striving for continuity, creating a community.**
 I think there is some value in connecting local makers with online making communities. This is something I thought about when I was overseeing a university makerspace. I think it would be interesting when maker educators are developing instructional materials for a workshop or class to create and host them on existent online platforms. Doing this would spread local knowledge online and also potentially serve to connect the local makers with the online community by encouraging them to go online and use these platforms. I think this could help strengthen communities both locally and globally. 
@@ -42,7 +42,7 @@ Facilitating and empowering others in a local makerspace to create their own diy
 Something I would like to try personally are creating tutorials on online platforms such as instructables, hackster, youtube, and tik-tok. Something that I am less great at is video documentation. My strength right now is primarily writing. I want to do some projects this term that are more focused on visual video documentation. If I have more knowledge on this I can better help others in creating their own documentation. 
 
 
-## Next Steps - My Communication Strategy
+### Next Steps - My Communication Strategy
 - Make an instructional video or content to start getting used to online instructional platforms and communities. 
 - Collaborate via workshop with classmates who are learning new things and work with them to make a tutorial/instructional video. “Beginners Making Things”
 - Compiling past work in a makerspace to show my experience when I am talking to new people. 
