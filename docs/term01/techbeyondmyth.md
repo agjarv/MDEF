@@ -106,3 +106,5 @@ void loop() {
 ## Video
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/773159561?h=aa561b4bad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ghost machine.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
+## Reflections
+This week we got to explore inside the "black boxes" of our electronics. We got to work in groups for these projects which was very fun for me. Our group had the opportunity to take apart two monitors and explore what made them work (or not work). Our team created a forensic report for the first week and especially focused on the material supply chains related to building up these devices. The full version of the forensic report can be found [right here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw). 
