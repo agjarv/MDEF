@@ -37,10 +37,10 @@ For this part of the assignment we were asked to map the courses we are taking t
 |:------------------|:------------------------------|:------------------------------|:------------------------------|
 | 01 - Bootcamp     |      Setting up documentation website using git    |   Learning about classmates via interviews     |  documenting everything!     |
 | 02 - Atlas of Weak Signals | Learn how to use the Atlas of weak signals as a tool to discover design interventions in the world | Want to learn what it means to be hyper local| open to connecting daily life to the future |
-| 03/04 Biology & Agri zero |  exploring microscopic organisms, biohacking, bioplastics, robotics in agriculture        |   connecting my history of growing up on a farm to the future of agriculture     |       |
-| 05 - Living with your ideas |      |      |     |
-| 06/07 - Tech beyond the Myth |      |      |      |
-| 08 - Community Engagement |         |        |       |
-| 09/10 - Extended Intelligences |       |        |       |
-| 11/12 - Design Dialogues |      |      |      |
+| 03/04 Biology & Agri zero |  exploring microscopic organisms, biohacking, bioplastics, robotics in agriculture        |    learn how to apply the scientific method in design, reading scientific papers    |   connecting my history of growing up on a farm to the future of agriculture  |
+| 05 - Living with your ideas |   super quick prototyping to test ideas with myself   |   try out different/new 1st person research methods   |   to push myself to do something quickly instead of overthinking!  |
+| 06/07 - Tech beyond the Myth |   electronics, Arduino, recycling   |   prototyping, exploration, play   |   To learn ways to combine things I have done in the past in new ways   |
+| 08 - Community Engagement |     active listening, learning about communities in the area and ones we are working with    |    mapping    |    Open to everything, this all seems very new to me   |
+| 09/10 - Extended Intelligences |   open source AI tools    |        |    How can this be useful to me as a designer?   |
+| 11/12 - Design Dialogues |   collaboration, documentation, sharing, presenting my work   |      |   Also need to work on being able to (verbally)talk about my work in presentation  |
 
