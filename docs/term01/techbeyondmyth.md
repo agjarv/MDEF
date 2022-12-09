@@ -1,6 +1,21 @@
 # Almost Useful Ghost Machine
 
+
+## Reflections
+On the first Tech Beyond the Myth week we got to explore inside the "black boxes" of our electronics. We got to work in groups for these projects which was very fun for me. Our group had the opportunity to take apart two monitors and explore what made them work (or not work). Our team created a forensic report for the first week and especially focused on the material supply chains related to building up these devices. The full version of the forensic report can be found [right here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw). 
+
+![DELL Monitor](https://i.imgur.com/pAOri7q.jpg)
+
+![Phillips Monitor](https://i.imgur.com/wkW2LdA.jpg)
+
+The next week we started to explore what components inside the monitor could be reused or recycled. We were able to hook up some of the push buttons and a bi-color LED from one of the the monitors to an Arduino to control them. Next we explored reusing the speakers. We also explored the idea of using the LEDs as light sensors. Inspired by the materials we found inside we devised a "Ghost Machine" that could sense changes in the light and transform that input into sound. More details on the outcome and design of the project can be found below. 
+
+This project was overall very fun for me. In the past I have had the opportunity and curiosity to take apart electronics to see how they worked and used them in artwork and sculpture. I had also independently used Arduino and other microelectronics for other projects. Before this class I had never reused parts from old electronics in this way by combining and controlling them with Arduino. It was also really fun to work with a group and let the materials we found inside inform what our project this week would look like and perform like. After this week I am definitely more interested in resurrecting and reanimating old electronics and parts to make new things and use in my art and design work. I have also been inspired to learn more about electrical engineering to understand better how I can use some of the other components we found inside. I am really looking forward to the next term where we can hopefully build our own circuit boards from scratch (this had been on my bucket list for some time)! I already have some ideas of things I would like to explore further in this area.
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXRer_4LkwNSSRSiP6Ro8_FdwRp9BHXNzIQmxz3BfKbHeDDZMHWxm6gaH_CFEr-JNS2SFxAeDB-icy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## Video
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/773159561?h=aa561b4bad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ghost machine.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Code
 ```
@@ -103,8 +118,5 @@ void loop() {
   delay(10);        // delay in between reads for stability
 }
 ```
-## Video
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/773159561?h=aa561b4bad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="ghost machine.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## Reflections
-This week we got to explore inside the "black boxes" of our electronics. We got to work in groups for these projects which was very fun for me. Our group had the opportunity to take apart two monitors and explore what made them work (or not work). Our team created a forensic report for the first week and especially focused on the material supply chains related to building up these devices. The full version of the forensic report can be found [right here](https://hackmd.io/6Gz_caxaSM-UFo9HLMk4tw). 
+
