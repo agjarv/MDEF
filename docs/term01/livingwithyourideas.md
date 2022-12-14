@@ -10,3 +10,17 @@
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFQ-jN4-Tc&#x2F;watch?utm_content=DAFQ-jN4-Tc&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Wearing Health Data</a> by agjarv
+
+## Reflections
+
+*What did you make? And why did it matter?*
+
+*What happens when you involve yourself?*
+
+*What happens when you use yourself as an instrument?*
+
+*Did anything change about your way of working?*
+
+*What does it mean for your future work?*
+
+*After seeing the videos of your design space collective, how does it change your understanding of it, present new opportunities or inspire new possibilities for collaboration?*
