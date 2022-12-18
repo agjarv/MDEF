@@ -1,9 +1,10 @@
 # The Plant Band
 
+![The Plant Band](../images/thesis/Plant%20Band.jpeg)
 *Collaborators: Marielle Wall, Jordan Hodges, the Plants*
 
 ## Story
-> *by Jordan Hodges*
+> *by Marielle Wall*
 
 > The Plant Band is a group of plants who desire to tell children about their lives through the form of song. Through the use of  electronics and code, us humans have translated the secret language of plants to something we can hear and interact with. 
 
