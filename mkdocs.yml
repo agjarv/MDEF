@@ -96,8 +96,9 @@ nav:
       - Extended Intelligences: term01/extendedintelligences.md
   - Thesis Projects:
     - thesisprojects/index.md
-    - Design Interventions:
-      - First Interventions: thesisprojects/firstinterventions.md
+    - First Design Interventions:
+      - The Plant Band: thesisprojects/plantband.md
+      - Messages in Resin: thesisprojects/messagesinresin.md
 
 markdown_extensions:
 
