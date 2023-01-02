@@ -1,4 +1,12 @@
 # Extended Intelligences
 
 These weeks we got to learn about Artificial Intelligence and Machine Learning. These courses and discussions were especially focused on considerations when designing systems that use AI or machine learning. 
+
 ## Reflections
+
+Throughout this course on extended intelligences we discussed some issues and limitations with AI. I found these discussions to be the most interesting part of this course. When presenting our final group projects we discussed some problems that could result from each final group project. We discussed claims of accuracy and how the systems are only as good as the data going in to them. We learned that the AI systems can produce false positives, true positives, false negatives and true negatives. More ethical issues arise when outsourcing decisions to AI. Again, here the system is only as good as the date going into it. The AI will make assumptions based on the dominant culture. This can be problematic because those who engineering the machine decide what is socially acceptable in their own culture and may not account for the variations from culture to culture. This results in their biases being "baked" into the machine from the start. Going deeper into this we also discussed how these biases created by the "dominant culture" can be inclusive or exclusive of those who are divergent from the datasets. This could actually create a feedback loop that can further exclude people that are already marginalized in society. Another point we discussed is the access of private and biometric data that is collected from users. We discussed concerned of privacy around these digital profiles and how it is collected, bought, and sold often without the knowledge of the users of the system. Companies in turn make profits off this data. We also discussed concerns around how this private data could eventually be used against the users if privacy is not protected. Lastly we discussed how some problems facing us today might not all require high tech solutions such as AI. Some problems are more complex and require more nuanced, gentle care to solve than what machines and artificial intelligence can provide. 
+
+## Group Project: DIYosaurus
+
+Our group imagined a system that takes photos of an object as input and generates and outputs instructions on how to build the object. The goal was to encourage people to make their own things rather than buying them. 
+<iframe src="https://drive.google.com/file/d/184Cd-Xiug8Q97-E9UmpPu0RpM6Ush5v9/preview" width="640" height="480" allow="autoplay"></iframe>
