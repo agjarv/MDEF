@@ -27,6 +27,19 @@ Using prototypes as a vehicle for inquiry is also very appealing to me as well. 
 When I moved to Barcelona I had to leave many of my tools and materials I am used to working with behind. I brought a few programmable microcontrollers and materials for metalwork embroidery. I am currently exploring metalwork embroidery as a way to apply circuits to textiles. Luckily when we arrived to IAAC we received a soldering and electronics prototyping toolkit. 
 ![Tools](../images/term-01/ds1/workspace-tools.png)
 
+## Collaborative Design Spaces
+Throughout this term I will be doing collective design  interventions with the rest of my classmates. For the design studio class this week we grouped up based on our research interests. I joined the "Rise of the Hyper Resilient" group for the exercise this week. We started by putting our each of our individual design spaces together in Miro and started drawing connections between our interests. We started to brainstorm some categories that we could talk about. 
+
+![Rise of Hyper Resilient](../images/term-01/ds1/Hyper-Resilient.png)
+
+![Hyper Resilient](../images/term-01/ds1/HyperResilient2.png)
+
+After our conversation I was especially interested in researching the connection between urban and rural communities. After class I went back to the collective board and added some research on some Korean natural farming practices I learned about. I also transferred this to my personal design space. 
+
+![Korean Natural Farming](../images/term-01/ds1/OrganicFarming.png)
+
+After this week I didn't end up reconnecting with the Hyper Resilient group. In the next weeks I ended up working with different groups but I am hoping to revisit some of the topics with those interested in the Rise of the Hyper Resilient in the next term. 
+
 ## Communication Strategies
 
 **Striving for continuity, creating a community.**
@@ -46,7 +59,20 @@ Something I would like to try personally are creating tutorials on online platfo
 - Make an instructional video or content to start getting used to online instructional platforms and communities. 
 - Collaborate via workshop with classmates who are learning new things and work with them to make a tutorial/instructional video. “Beginners Making Things”
 - Compiling past work in a makerspace to show my experience when I am talking to new people. 
-- Curation - don’t reinvent the wheel. Use previous open-source tutorials and platforms already created for sharing information. 
+- Curation - don’t reinvent the wheel. Use previous open-source tutorials and platforms already created for sharing information.
+
+### Documenting Almost Useful Machines
+
+I am really interested in "How It's Made" and tutorial videos. I think they are really engaging and I want to try making more of them myself. This week I made a behind the scenes style video for our group project for Tech Beyond the Myth week.  
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 177.7778%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXIz6AaLo&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFXIz6AaLo&#x2F;watch?utm_content=DAFXIz6AaLo&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Ghost Machine - The Making of</a> by agjarv
 
 
 
