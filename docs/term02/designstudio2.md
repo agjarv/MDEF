@@ -2,10 +2,10 @@
 
 ## Reframing and Reflecting from Term 1
 
-![](..images/term-02/ds2/Design-Space-Term-2-signals.jpeg)
+![](../images/term-02/ds2/Design-Space-Term-2-signals.jpeg)
 
-![](..images/term-02/ds2/Design-Space-Term-2.jpeg)
-![](/docs/images/term-02/ds2/Design-Space-Term-2.jpeg)
+![](../images/term-02/ds2/Design-Space-Term-2.jpeg)
+
 
 At the beginning of this term I have not really narrowed down the number of weak signals I am interested in. Instead I have replaced some of the ones from term 1 with new weak signals and triggers. One of the main ones I want to note is the addition of Interspecies Collaboration. After the Plant Band intervention I realized there are more opportunities to use this technology to interface with other species. I want to take the opportunity this term to explore soil ecologies and the "life underground". I plan to do this by collecting and cultivating indigenous microbes from the forest and learning from them.
 
