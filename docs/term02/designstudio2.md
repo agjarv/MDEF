@@ -2,7 +2,9 @@
 
 ## Reframing and Reflecting from Term 1
 
-![Design Space Term 2](..images/term-02/ds2/Design-Space-Term-2-signals.jpeg)
+![](..images/term-02/ds2/Design-Space-Term-2-signals.jpeg)
+
+![](..images/term-02/ds2/Design-Space-Term-2.jpeg)
 
 At the beginning of this term I have not really narrowed down the number of weak signals I am interested in. Instead I have replaced some of the ones from term 1 with new weak signals and triggers. One of the main ones I want to note is the addition of Interspecies Collaboration. After the Plant Band intervention I realized there are more opportunities to use this technology to interface with other species. I want to take the opportunity this term to explore soil ecologies and the "life underground". I plan to do this by collecting and cultivating indigenous microbes from the forest and learning from them.
 I want to continue to explore more tools to interface between life and technology. Before coming to MDEF I designed several interfaces that explored alternative ways for humans to interface with computers. Most of these were in the form of wearable or interactive musical MIDI devices. I am really excited to expand my knowledge of these tools beyond just a human focus and start working with other species. In relation to this I created a new random trigger card called Data Sonification. I think Data Sonification in the Plant Band intervention example provides a way to make something like the biological processes of a plant more interesting and accessible to non-scientists and future scientists.
@@ -12,4 +14,5 @@ The Climate Grief workshop was part of a larger project proposed by my collabora
 My final learning point from the last term is to start earlier! Once I have an idea I just need to get going instead of spending so much time in the planning phase. When I took art classes I found this kind of exploration coming more naturally to me. My former sculpture teacher would always say "work makes work". When studying design there has typically been more research and planning but sometimes I can get stuck there. I would like to find a balance between the two disciplines. Overall I am very excited to start working exploring my new weak signals, learning new tools to interface with the world, and researching new concepts to help me communicate my ideas more clearly.
 
 ### Next Interventions
-My first interventions will be related to exploring soil ecologies as mentioned above. For the first step I will collect soil microbes from the forest according to the Jadam natural farming practices that I researched last term. That process will take at least 10 days. In the second phase I will start listening to the soil microbes with an interface similar to the one built for the Plant Band intervention. I not exactly sure what I will learn form doing this but I know I'll learn something as I go through this process. 
+My first interventions will be related to exploring soil ecologies as mentioned above. For the first step I will collect soil microbes from the forest according to the Jadam natural farming practices that I researched last term. That process will take at least 10 days. In the second phase I will start listening to the soil microbes with an interface similar to the one built for the Plant Band intervention. I not exactly sure what I will learn form doing this but I know I'll learn something as I 
+go through this process. 
