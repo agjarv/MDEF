@@ -19,6 +19,7 @@ Futures to be invented.
 ---
 
 A few other thoughts to highlight from this week. 
+
 - We can't be neutral against something like racism and hate.
 - People aren't evil but their actions can be evil. 
 - Resist "us versus them" and "othering" at all costs. 
@@ -49,4 +50,5 @@ We started out by reading the [Everything Manifesto](https://www.iam-internet.co
 ## References
 
 [Everything Manifesto](https://www.iam-internet.com/everything)
+
 [Extinction Rebellion](https://extinctionrebellion.uk/the-truth/the-emergency/)
