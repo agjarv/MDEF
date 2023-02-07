@@ -8,7 +8,7 @@ I was first tasked with assessing three different materials. I'll look at a mate
 
 This is a beautiful type of silk I have hanging in my closet (from [The Ziran](https://theziran.com/)). This silk has been produced sustainably in Southern China for 500 years. This silk is produced in one small village with minimal energy and no chemicals. The cloth is dyed with yams and iron rich mud from the river all with the help of the sun.
 
-![](/docs/images/term-02/remix-matter/ziran.png)
+![](../docs/images/term-02/remix-matter/ziran.png)
 
 This cloth celebrates a long tradition in how it has been produced sustainably for 500 years. I find it interesting how we think a lot about sustainability in the future and at the same time so much can be learned from the past. This cloth is dyed with natural plant dye, mud, and the sun. The resulting fabric is one of the most beautiful textiles I own. It is the sort of think I will keep for the rest of my life. I can't always say that for most of the modern clothes I buy. There is something almost magical about the resulting cloth. It can't be replicated by manufacturing because then it wouldn't be what it is. It wouldn't be 500 years of handcrafted tradition. I do believe that we have to go back to an appreciation for handcraft over manufacturing. I believe the future is crafted and not manufactured. 
 
@@ -23,10 +23,10 @@ I have seen many projects where designers and artist collaborate with Bombyx mor
 
 We had one of the more well known projects (Silk Pavillion) mentioned in class so I wanted to highlight the work of conceptual artist, Elsabe Dixon. She has been growing silkworms since her childhood in South Africa. I appreciate her approach to working with the silkworms as collaborators as she explores spiritual expression, labor and time. 
 
-![](/docs/images/term-02/remix-matter/smokemirrors.jpeg)
+![](../docs/images/term-02/remix-matter/smokemirrors.jpeg)
 Alchemical Vessel - Elsabe Dixon 2014
 
-![](/docs/images/term-02/remix-matter/thisislabor.jpeg)
+![](../docs/images/term-02/remix-matter/thisislabor.jpeg)
 This is Labor - Elsabe Dixon 2013
 
  In traditional sericulture the silkworms are boiled alive to remove them from their cocoons. This allows the cocoons to be unwound in long strands. If the silkworms are allowed to complete their life-cycle they break through the cocoon and break up the long strand of silk. In the production of most silk the worms are killed to prevent them from breaking their cocoon. Silk threads can them be woven into cloth. I think it could be interesting for the non-woven silk mentioned above to be used in bioplastic composites to reinforce them. 
@@ -38,7 +38,7 @@ If I could imagine a material I think it would be interesting to make silk from 
 
 When textiles are dyed at an industrial scale a lot of water is used. There are many chemicals used in this process that make their way into polluting local ecosystems as well. The bacteria could also be engineered to produce pigment that could "dye" the fibers as they are being produced. This could potentially cut down on the amount water and energy needed to produce and dye a protein based silk-like fiber. The resulting pre-colored yarns could be woven with traditional techniques or knitting that take advantage of pre-dyed yarns. Examples of these weaving techniques can range from what you can see in [jacquard](https://tissura.com/articles/jacquard-fabrics) or denim (twill). 
  
- ![Jacquard](/docs/images/term-02/remix-matter/jaquard.jpeg)
+ ![Jacquard](../docs/images/term-02/remix-matter/jaquard.jpeg)
 
 
 ## Materials Exploration
