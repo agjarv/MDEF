@@ -2,11 +2,44 @@
 
 ## Material Narratives
 
-choose 1 material around, 1 material from references and think of 1 ideal material and do the following:
-- properties (functional, technical & emotional)
-- describe what is it and their aspect/aesthetic (add photo to documentation)
-- what is the story behind them (who did them, why, where it comes from)
-- 2 possible applications for each
+I was first tasked with assessing three different materials. I'll look at a material from around me, one from a reference and imagine one new material. I chose to focus on textiles because I am a textile nerd and can't resist a great narrative about a special textile tradition and I am excited about the future in this area. 
+
+^^**xiang yun sha (pronounced SHUNG YOON SHAH)**^^
+
+This is a beautiful type of silk I have hanging in my closet (from [The Ziran](https://theziran.com/)). This silk has been produced sustainably in Southern China for 500 years. This silk is produced in one small village with minimal energy and no chemicals. The cloth is dyed with yams and iron rich mud from the river all with the help of the sun.
+
+![](/docs/images/term-02/remix-matter/ziran.png)
+
+This cloth celebrates a long tradition in how it has been produced sustainably for 500 years. I find it interesting how we think a lot about sustainability in the future and at the same time so much can be learned from the past. This cloth is dyed with natural plant dye, mud, and the sun. The resulting fabric is one of the most beautiful textiles I own. It is the sort of think I will keep for the rest of my life. I can't always say that for most of the modern clothes I buy. There is something almost magical about the resulting cloth. It can't be replicated by manufacturing because then it wouldn't be what it is. It wouldn't be 500 years of handcrafted tradition. I do believe that we have to go back to an appreciation for handcraft over manufacturing. I believe the future is crafted and not manufactured. 
+
+Something I find interesting is how a lot of culture, craft and traditions have been lost to time and colonialism and yet in a lot of academic settings there is this attitude of "discovery" as if these things are new. Things were done in circular and sustainable ways at one point before any institutions existed. It is the way of nature. The ability to craft things in a circular way is in our DNA. This is what still gives me hope. Seeing that materials like xiang yun sha still exist in the world give me hope. 
+
+<iframe src="https://player.vimeo.com/video/253073951?h=066b421348" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/253073951">The Ziran Way Film</a> from <a href="https://vimeo.com/user58255798">Ziran</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+^^**Bombyx mori collaborative materials**^^
+
+I have seen many projects where designers and artist collaborate with Bombyx mori (domesticated silkworms) to create a nonwoven silk material. Rather than spinning their cocoons the silkworms are coaxed to spin their silk strands across an armature. The silk resulting from the process is not woven in a traditional (human) way. It is pretty fine and transparent. Since it is nonwoven it might be difficult to turn it into a traditional cloth that can be cut and sewed. 
+
+We had one of the more well known projects (Silk Pavillion) mentioned in class so I wanted to highlight the work of conceptual artist, Elsabe Dixon. She has been growing silkworms since her childhood in South Africa. I appreciate her approach to working with the silkworms as collaborators as she explores spiritual expression, labor and time. 
+
+![](/docs/images/term-02/remix-matter/smokemirrors.jpeg)
+Alchemical Vessel - Elsabe Dixon 2014
+
+![](/docs/images/term-02/remix-matter/thisislabor.jpeg)
+This is Labor - Elsabe Dixon 2013
+
+ In traditional sericulture the silkworms are boiled alive to remove them from their cocoons. This allows the cocoons to be unwound in long strands. If the silkworms are allowed to complete their life-cycle they break through the cocoon and break up the long strand of silk. In the production of most silk the worms are killed to prevent them from breaking their cocoon. Silk threads can them be woven into cloth. I think it could be interesting for the non-woven silk mentioned above to be used in bioplastic composites to reinforce them. 
+
+
+^^**Bacterial Silk?**^^
+
+If I could imagine a material I think it would be interesting to make silk from bacteria. Bacteria could be engineered to produce long fibers of silk-like proteins that can be spun into very fine threads. 
+
+When textiles are dyed at an industrial scale a lot of water is used. There are many chemicals used in this process that make their way into polluting local ecosystems as well. The bacteria could also be engineered to produce pigment that could "dye" the fibers as they are being produced. This could potentially cut down on the amount water and energy needed to produce and dye a protein based silk-like fiber. The resulting pre-colored yarns could be woven with traditional techniques or knitting that take advantage of pre-dyed yarns. Examples of these weaving techniques can range from what you can see in [jacquard](https://tissura.com/articles/jacquard-fabrics) or denim (twill). 
+ 
+ ![Jacquard](/docs/images/term-02/remix-matter/jaquard.jpeg)
+
 
 ## Materials Exploration
  
