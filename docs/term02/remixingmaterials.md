@@ -98,7 +98,7 @@ It is best to let it cure for 1-2 days. Peeling too soon can cause the gelatin o
 For this recipe we made sampled with two different ratios. The first one we used 20 grams of dried espresso ground coffee. This is the coffee that has been boiled to extract some color and then dried again. For the second recipe we added 30 grams of coffee grounds. Both samples had a very nice color and texture from the textured sheet. The sample with 20 grams had a few translucent spots throughout. Both samples started out fairly flexible but continued to harden as the cured over several days. The edges of the samples are harder then the middle. They still have a bit of flexibility and bend without breaking but are very stiff. They both seem strong and don't easily crack or tear. They are almost leather-like but on the stiffer side. Like thick vegetable tanned-leather. 
 
  
- ## Material Reflection
+## Material Reflection
 
 *Where does the material come from? Which residues?*
 
