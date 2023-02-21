@@ -76,11 +76,41 @@ I was using some similar designs last year during Fabricademy that I 3D printed 
 
 ## 2D Fabrication
 
-Work in progress. I missed this day and am still waiting to laser cut. 
+**Work in progress. Still waiting to laser cut. Will update as soon as I have time to reserve the laser.**
+
+For this task we had to design and laser cut a pressfit thing. I wanted to make a tool for a new embroidery hobby I recently picked up. I designed a rectangular slate embroidery frame to be cut on the laser. These frames are typically made from wood and fit together with pegs and lacing thread. I designed a version that fits together with laser cut parts. I adjusted only some of the slots to account for the laser kerf as I wanted some of the pieces to be permanent and some of the pieces that act like pegs to be able to be removed over and over in line with the original design.
+
+
+![](../images/term-02/digital-prototype/goldworkFrame.jpeg)  
+slate frame from Goldwork by Hazel Everett
+
+
+![](../images/term-02/digital-prototype/embroideryframe.png)  
+
+
+### Files
+
+[SlateFrame4mm.dxf](../images/term-02/digital-prototype/SlateFrame4mm.dxf)  
+
+[SlateFrame4mm.svg](../images/term-02/digital-prototype/SlateFrame4mm.svg)
+
+### References  
+
+[Pressfit Design in Inkscape](http://wiki.fablab.is/wiki/Inkscape_how_to_make_a_pressfit_design)
+
+Image from [Goldwork Techniques, Projects, and Pure Inspiration by Hazel Everett](https://www.goodreads.com/en/book/show/12597395)
 
 ## Inputs and Outputs
 
 Work in progress... I spent too much time working on my potentiometer and didn't get into this yet. 
+
+### References
+
+[Adaptive Morse Code Detector](https://www.hackster.io/shjin/adaptive-led-morse-code-decoder-and-timer-interrupt-8d18a7)
+
+[Pulse Counter](https://forum.arduino.cc/t/pulse-counter-and-time-measurement/904085/12)
+
+[Photocell Reading](https://learn.adafruit.com/photocells/arduino-code)
 
 ## Micro Challenge 1
 
@@ -108,13 +138,15 @@ Check out the full project on our [GitHub](https://github.com/SeherKrishna02/And
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?utm_content=DAFaumtP7p8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza</a> by Seher, Myrto, & Amanda
 
-### References for Later
+### References
 
-[Adaptive Morse Code Detector](https://www.hackster.io/shjin/adaptive-led-morse-code-decoder-and-timer-interrupt-8d18a7)
+Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library)
 
-[Pulse Counter](https://forum.arduino.cc/t/pulse-counter-and-time-measurement/904085/12)
+[AccelStepper](https://github.com/waspinator/AccelStepper) Library
 
-[Photocell Reading](https://learn.adafruit.com/photocells/arduino-code)
+[Vinyl Record Cutting Lathe](https://fabacademy.org/2020/labs/digiscope/students/ambroise-devries/docs/p02.html) Fabacademy Project by Ambroise de Vries
+
+[DIY Record Cutting](http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html) Fabacademy project by David Robert
 
 
 
