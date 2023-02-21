@@ -37,7 +37,7 @@ I decided to explore the Mozzi Library a bit. Mozzi uses oscillators and filters
 
 ## 2D/3D Design Tools
 
-![](../docs/images/term-02/digital-prototype/voronoiOverdose.png)
+![](../images/term-02/digital-prototype/voronoiOverdose.png)
 
 
 For this activity we were tasked with creating a 3D design based on algorithmic thinking of any object. I chose to work with Grasshopper. I have taken a few classes and tutorials on this over the last several years but I don't use it so I tend to forget everything I learn. I am hoping to use it more this term and hopefully retain some of what I learn. 
@@ -45,28 +45,28 @@ For this activity we were tasked with creating a 3D design based on algorithmic 
 I started out by following a grasshopper beginner tutorial online. 
 
 
-![](../docs/images/term-02/digital-prototype/grasshopperanimate.gif)
+![](../images/term-02/digital-prototype/grasshopperanimate.gif)
 playing with attractor points
 
 
 I started following some more grasshopper tutorials and decided to work on using some of SVGs that I created in some previous weeks as a starting point. This proved to be way more difficult than I realized. It is hard (for a beginner) to get the Voronoi tesselation to work in a non-rectangular surface. 
 
-![](../docs/images/term-02/digital-prototype/voronoifail.png)
+![](../images/term-02/digital-prototype/voronoifail.png)
 
 Eventually after many hours, errors, and warnings of Voronoi overdose from Grasshopper I managed to get something I could use. 
 
-![](../docs/images/term-02/digital-prototype/voronoibutterflyblue.png)
+![](../images/term-02/digital-prototype/voronoibutterflyblue.png)
 Voronoi tessellated butterflies
 
 I was using some similar designs last year during Fabricademy that I #D printed onto fabric during the [Computational Couture](https://class.textile-academy.org/2022/amanda-jarvis/assignments/week07/) week. Before when I made them I had to start with a square of the tesselation and then cut the shape out that I wanted each time. With this parametric version I can import any SVGs and convert them to this pattern that is nice for 3D printing on fabrics. 
 
-## Files
+### Files
 
 [VoronoiSurface.gh](../images/term-02/digital-prototype/VeronoiSurface.gh)
 
 [voronoiButterflies.3dm](../images/term-02/digital-prototype/voronoiButterflies.3dm)
 
-## References
+### References
 
 [Grasshopper Beginner Tutorial](https://www.youtube.com/watch?v=zDDVeDldvaI)
 
