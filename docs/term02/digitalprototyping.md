@@ -10,7 +10,7 @@ It took quite a bit of testing and research to figure out how to get it to work 
 
 I decided to explore the Mozzi Library a bit. Mozzi uses oscillators and filters to make way more interesting sounds. I tried out some of the example codes with the paper potentiometer and was pretty cool. In the future weeks I am interested in making a diy synth based on this paper potentiometer and the Mozzi library. 
 
-
+(use the arrows to see the other pages of the presentation)
 <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -18,7 +18,7 @@ I decided to explore the Mozzi Library a bit. Mozzi uses oscillators and filters
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaf9KXaPw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaf9KXaPw&#x2F;view?utm_content=DAFaf9KXaPw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> Electronics and Coding Lab Notes</a> by agjarv
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaf9KXaPw&#x2F;view?utm_content=DAFaf9KXaPw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> Electronics and Coding Lab Notes</a> by amanda
 
 
 ### References 
@@ -35,8 +35,54 @@ I decided to explore the Mozzi Library a bit. Mozzi uses oscillators and filters
 
 - [Paper Synth](https://www.instructables.com/PaperSynth-an-8-bit-Synthesizer-Made-Out-of-Paper-/) by Bryan Cera
 
+## 2D/3D Design Tools
+
+![](../docs/images/term-02/digital-prototype/voronoiOverdose.png)
+
+
+For this activity we were tasked with creating a 3D design based on algorithmic thinking of any object. I chose to work with Grasshopper. I have taken a few classes and tutorials on this over the last several years but I don't use it so I tend to forget everything I learn. I am hoping to use it more this term and hopefully retain some of what I learn. 
+
+I started out by following a grasshopper beginner tutorial online. 
+
+
+![](../docs/images/term-02/digital-prototype/grasshopperanimate.gif)
+playing with attractor points
+
+
+I started following some more grasshopper tutorials and decided to work on using some of SVGs that I created in some previous weeks as a starting point. This proved to be way more difficult than I realized. It is hard (for a beginner) to get the Voronoi tesselation to work in a non-rectangular surface. 
+
+![](../docs/images/term-02/digital-prototype/voronoifail.png)
+
+Eventually after many hours, errors, and warnings of Voronoi overdose from Grasshopper I managed to get something I could use. 
+
+![](../docs/images/term-02/digital-prototype/voronoibutterflyblue.png)
+Voronoi tessellated butterflies
+
+I was using some similar designs last year during Fabricademy that I #D printed onto fabric during the [Computational Couture](https://class.textile-academy.org/2022/amanda-jarvis/assignments/week07/) week. Before when I made them I had to start with a square of the tesselation and then cut the shape out that I wanted each time. With this parametric version I can import any SVGs and convert them to this pattern that is nice for 3D printing on fabrics. 
+
+## Files
+
+[VoronoiSurface.gh](../images/term-02/digital-prototype/VeronoiSurface.gh)
+
+[voronoiButterflies.3dm](../images/term-02/digital-prototype/voronoiButterflies.3dm)
+
+## References
+
+[Grasshopper Beginner Tutorial](https://www.youtube.com/watch?v=zDDVeDldvaI)
+
+[Grasshopper Voronoi on Surface](https://www.youtube.com/watch?v=YDFofhlWNxs)
+
+## 2D Fabrication
+
+Work in progress. I missed this day and am still waiting to laser cut. 
+
+## Inputs and Outputs
+
+Work in progress... I spent too much time working on my potentiometer and didn't get into this yet. 
 
 ## Micro Challenge 1
+
+![](../images/term-02/digital-prototype/andaaza2.jpeg)
 
 We were given a "Micro Challenge" to design and build a tool or artifact to help in the process of designing, creating, thinking, or collaborating with others. For this challenge, I teamed up with Myrto and Seher. We come from different professional backgrounds, and it took us a while to think of an idea that would align with all of our research interests. Eventually, we settled on the question: what if we could store data inside the objects we use in our daily life?
 
@@ -58,7 +104,7 @@ Check out the full project on our [GitHub](https://github.com/SeherKrishna02/And
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?utm_content=DAFaumtP7p8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza</a> by agjarv
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?utm_content=DAFaumtP7p8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza</a> by Seher, Myrto, & Amanda
 
 ### References for Later
 
