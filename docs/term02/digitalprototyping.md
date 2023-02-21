@@ -47,7 +47,7 @@ For this activity we were tasked with creating a 3D design based on algorithmic 
 I started out by following a grasshopper beginner tutorial online. 
 
 
-![](../images/term-02/digital-prototype/grasshopperanimate.gif)
+![](../images/term-02/digital-prototype/grasshopperanimate.gif)  
 playing with attractor points
 
 
@@ -60,7 +60,7 @@ Eventually after many hours, errors, and warnings of Voronoi overdose from Grass
 ![](../images/term-02/digital-prototype/voronoibutterflyblue.png)
 Voronoi tessellated butterflies
 
-I was using some similar designs last year during Fabricademy that I #D printed onto fabric during the [Computational Couture](https://class.textile-academy.org/2022/amanda-jarvis/assignments/week07/) week. Before when I made them I had to start with a square of the tesselation and then cut the shape out that I wanted each time. With this parametric version I can import any SVGs and convert them to this pattern that is nice for 3D printing on fabrics. 
+I was using some similar designs last year during Fabricademy that I 3D printed onto fabric during the [Computational Couture](https://class.textile-academy.org/2022/amanda-jarvis/assignments/week07/) week. Before when I made them I had to start with a square of the tesselation and then cut the shape out that I wanted each time. With this parametric version I can import any SVGs and convert them to this pattern that is nice for 3D printing on fabrics. I also have sliders to control the numbers of points, height of extrusion, and seed pattern so I can adjust depending on the look I am going for. 
 
 ### Files
 
