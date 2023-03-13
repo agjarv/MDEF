@@ -1,7 +1,7 @@
 # Measuring the World
 
-Sense-Making Journal 
-====================
+## Sense-Making Journal 
+
 
 MDEF: Measuring the world / A world in data activity report.
 
