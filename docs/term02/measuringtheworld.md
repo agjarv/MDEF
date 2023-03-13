@@ -1,21 +1,17 @@
 # Measuring the World
 
-Sense-Making Journal group 1
+Sense-Making Journal 
 ====================
 
 MDEF: Measuring the world / A world in data activity report.
 
-Team: 
-Amanda
-Claudia
-Ahmed
-Caglar
-Korbinian
+Team:  
+Amanda  
+Claudia  
+Ahmed  
+Caglar  
+Korbinian  
 
-
-**Journal Index**
-
-[TOC]
 
 ## From objectives to the hypothesis
 
