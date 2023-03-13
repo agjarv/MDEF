@@ -78,7 +78,7 @@ I was using some similar designs last year during Fabricademy that I 3D printed 
 
 **Work in progress. Still waiting to laser cut. Will update as soon as I have time to reserve the laser.**
 
-For this task we had to design and laser cut a pressfit thing. I wanted to make a tool for a new embroidery hobby I recently picked up. I designed a rectangular slate embroidery frame to be cut on the laser. These frames are typically made from wood and fit together with pegs and lacing thread. I designed a version that fits together with laser cut parts. I adjusted only some of the slots to account for the laser kerf as I wanted some of the pieces to be permanent and some of the pieces that act like pegs to be able to be removed over and over in line with the original design.
+For this task we had to design and laser cut a pressfit artifact. I wanted to make a tool for a new embroidery hobby I recently picked up. I designed a rectangular slate embroidery frame to be cut on the laser. These frames are typically made from wood and fit together with pegs and lacing thread. I designed a version that fits together with laser cut parts. I adjusted only some of the slots to account for the laser kerf as I wanted some of the pieces to be permanent and some of the pieces that act like pegs to be able to be removed over and over in line with the original design.
 
 
 ![](../images/term-02/digital-prototype/goldworkFrame.jpeg)  
