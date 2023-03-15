@@ -54,7 +54,7 @@ It won't be easy, but it's necessary. We have the opportunity to create a world 
 
 ## References
 
-- [https://bigthink.com/hard-science/nothing-exist-quantum-foam/](“Nothing” doesn’t exist. Instead, there is “quantum foam”)
+- [“Nothing” doesn’t exist. Instead, there is “quantum foam”](https://bigthink.com/hard-science/nothing-exist-quantum-foam/)
 - [How Humanity Came To Rule The World | Yuval Noah Harari & Neil deGrasse Tyson](https://www.youtube.com/embed/e77a-SweV9o)  
 - [Design as participation:](https://jods.mitpress.mit.edu/pub/design-as-participation/release/1)  
 - [A History of the World in Seven Cheap Things:](https://www.researchgate.net/publication/319143816_A_History_of_the_World_in_Seven_Cheap_Things)  
