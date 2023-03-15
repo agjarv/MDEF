@@ -40,6 +40,18 @@ Over the last few years, we have witnessed the fragility of systems that are rem
 
 In addition, we need to make space for healing, recovery, and repair. We must hold space for difficult emotions such as grief, anger, and sadness. It is only by acknowledging and making space for these emotions that we can move forward and transition to a world where all life is sacred and everyone has the right to exist. As a community, we can invite everyone to be part of this transition and create a better future for ourselves and the planet.
 
+### Designers as Agents of Change: Redefining Our Role in Society"
+
+As designers, we have the power to shape the world around us. We have a responsibility to use our skills and creativity to design a better future for all beings on this planet. The issues we face today are complex and intertwined, but we can start by asking ourselves some important questions:
+
+How can we design for a more sustainable future? How can we create systems that are regenerative, rather than extractive? How can we ensure that everyone has access to the resources they need to thrive?
+
+It is time for us to move beyond traditional design thinking and embrace a new paradigm that puts people and the planet first. We must challenge ourselves to think creatively and collaboratively, to listen to diverse perspectives, and to engage in deep, empathetic understanding of the world around us.
+
+We must also recognize that our work as designers is inherently political. We cannot simply design for aesthetics or functionality alone - we must actively work towards a more just and equitable society. This means understanding and challenging power structures, working towards dismantling systems of oppression, and creating inclusive designs that serve all communities.
+
+It won't be easy, but it's necessary. We have the opportunity to create a world that is more just, more sustainable, and more beautiful than the one we inherited. Let's rise to the challenge and use our skills as designers to make a positive impact on the world.
+
 ## References
 
 - [https://bigthink.com/hard-science/nothing-exist-quantum-foam/](“Nothing” doesn’t exist. Instead, there is “quantum foam”)
