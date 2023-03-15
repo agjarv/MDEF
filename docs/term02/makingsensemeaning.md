@@ -8,7 +8,7 @@ Which worlds can we design with the power of today’s tools?
 
 How can we design the transition towards these worlds?
 
-
+The following reflection is my “toolkit” I can use as a guide for designing for futures. 
 
 ## "Nothing" is Not Really Nothing
 
