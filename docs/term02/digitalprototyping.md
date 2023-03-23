@@ -76,7 +76,6 @@ I was using some similar designs last year during Fabricademy that I 3D printed 
 
 ## 2D Fabrication
 
-**Work in progress. Still waiting to laser cut. Will update as soon as I have time to reserve the laser.**
 
 For this task we had to design and laser cut a pressfit artifact. I wanted to make a tool for a new embroidery hobby I recently picked up. I designed a rectangular slate embroidery frame to be cut on the laser. These frames are typically made from wood and fit together with pegs and lacing thread. I designed a version that fits together with laser cut parts. I adjusted only some of the slots to account for the laser kerf as I wanted some of the pieces to be permanent and some of the pieces that act like pegs to be able to be removed over and over in line with the original design.
 
@@ -86,6 +85,8 @@ slate frame from Goldwork by Hazel Everett
 
 
 ![](../images/term-02/digital-prototype/embroideryframe.png)  
+
+![](../images/term-02/digital-prototype/embroidery_frame_assemble.png)
 
 
 ### Files
@@ -149,5 +150,103 @@ Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using
 [DIY Record Cutting](http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html) Fabacademy project by David Robert
 
 
+## Networking
+
+![](../images/term-02/digital-prototype/networking.png)
+
+## 3D Scanning & 3D Software
+
+![](../images/term-02/digital-prototype/3d_print_lab.png)
+
+For this class we learned about 3D scanning tools and 3D printing. We also got to learn how the Fab Lab 3d printers and booking system worked. Our task for this two options:
+
+Scan an object and then print it 
+
+or
+
+Print and object and then scan it
+
+I decided to scan an object and then see if I could print it. I had tried some cell phone scanning and photogrammetry apps in the past with varying results. This time I tried an entirely new one called Captur3. 
+
+![](../images/term-02/digital-prototype/Captur3.png)
+
+It was pretty easy to use. It is based on photogrammetry and lets you export an obj for free. First, you define 3 sides of the image. After those points are set you walk around the object to scan all sides.
+
+![](../images/term-02/digital-prototype/Boot_collage.png)
+
+The main problem I ran into was that I couldn't get the bottom of my object. As a result the mesh I was left with was open on the bottom. I had to go into Rhino and clean up the bottom and cap it off to make it 3D printable. This app is great for objects with a flat bottom that could easily be capped off. Considering I scanned a black shoe on top of a black table I think it came out pretty well. There was also an odd hole in the toe that probably resulted from some sort of shadow in the shoe. In the end I decided to leave it because I thought it was funny and wanted to see how it would come out in the print. The 3D printing part was pretty straightforward. I have had 3D printing experience in the past and I had no issues with the printing part. 
 
 
+### Files
+
+[Boot.obj](../images/term-02/digital-prototype/Boot.obj)
+[Boot.mtl]((../images/term-02/digital-prototype/Boot.mtl)
+
+
+## Interfaces - Machine Interactions
+
+![](../images/term-02/digital-prototype/machine_interactions.png)
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDBELYFY&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDBELYFY&#x2F;watch?utm_content=DAFeDBELYFY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Machine Interactions</a> by agjarv
+
+## CNC
+
+![](../images/term-02/digital-prototype/cnc_simulation.png)
+
+
+For this week I partnered with Sami to recreate an open source loom project we found online from [Kellie Dunn.](https://kelliead.github.io/index.html) Sami and I hope to recreate the loom and use it to host weaving workshops to our craft group in the next term. This project will include cnc milled, laser cut, and 3D printed parts. Here I will document the CNC milled portion. Her original design was meant to be entirely laser cut and we adapted it so the frame could be milled on the CNC.
+
+![](../images/term-02/digital-prototype/loom_cutting.png)
+
+Kellie had great documentation on her Github on how she made the loom. Her goal was to make a loom that is functional and also a beautiful object someone would want to keep around. She also included suggestions at the end for improvements she would make if she made the loom again. Sami and I incorporated these suggestions and redesigned the loom a bit before recreating it. To make the loom more sturdy we added another support beam to the bottom to the bottom to make it more stable and to keep it from skewing under tension. We also created pockets for the heddle to sit down into to keep it from skewing from side to side like it would in the more open design. When assembling we went ahead and reversed the screws on the ratcheting mechanisms to prevent them from interfering with the clothing winding around.  
+
+![](../images/term-02/digital-prototype/loom_sanding.png)
+
+Overall we were really with the quality and finish of the plywood once we sanded it. There were some tolerance issued with all the dowels fitting into the holes initially. Some fit and some did not due to inconsistencies in the dowels we bought. A moderate amount of hand sanding solved this and allowed them to fit. We learned a lot on how to prepare the files for the CNC. Some things we would need to consider going forward is the size of the mill end in relation to the screws we are using. Eduardo helped us resolve all of our issued pretty quickly and now we have a better idea on how do design for CNC milling in the future. 
+
+![](../images/term-02/digital-prototype/loom_assembled.png)
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDSBWCMA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDSBWCMA&#x2F;watch?utm_content=DAFeDSBWCMA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Ratchet Test</a> by agjarv
+
+### Files
+
+### References
+
+[Github for Kellie Dunn's Loom](https://kelliead.github.io/index.html)
+
+## Micro Challenge 2
+
+Myrto, Seher, and I decided to continue working on our project from the last challenge. We made a good amount of progress this time. The main parts we focused on were modeling, molding and casting a plaster mold for our ceramic cups to be slipcast and connecting a microphone interface for the z-axis stepper motor. We made some mistakes, learned a lot and still had a lot of fun in the process. 
+
+Check out the full project on our [GitHub](https://github.com/SeherKrishna02/Andaaza)
+
+I have had some experience with making slipcast molds from 3D printed objects in the past. Usually I build the molds with removable side walls. In this project we decided to 3D print the entire mold including the mold. This also ended up taking over 7 hours to print each half of the mold. We ran into some issues with our mold design as well. The walls were too rigid for the plaster to slip out. As a result we had to break the plastic mold to get our plaster mold removed. In the next iterations we will definitely be making molds for the plaster with removable walls. 
+
+
+![](../images/term-02/digital-prototype/Molding_Process.png)
+
+
+With the help of Eduardo and ChatGPT4 we were able to get the microphone to control the z-axis motor. It is designed to that when the sound coming from the microphone goes above a threshold the z-axis steps up a bit on its slow continuous descent. This cause the blade to make a little "jump" in response to the vibrations of the voice. It is still not working perfectly as the turntable motor pauses momentarily when the z-axis moves up. Despite this we managed to carve one cup as a proof of concept. We are looking forward to making more improvements in the future. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDA0K5TA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDA0K5TA&#x2F;watch?utm_content=DAFeDA0K5TA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza Microphone Test</a> by agjarv
