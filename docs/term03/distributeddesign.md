@@ -2,6 +2,8 @@
 
 ## Day 1 - Mushroom Model Exercise
 
+![](../images/term-03/distributed-design/mushroom_model.jpeg)  
+
 *Learning Skills
 What skills did I need during this activity and how can I translate into something useful for me and my future?*  
 
@@ -19,6 +21,8 @@ I was the one who stayed at our table and represented our group in talking about
 
 ## Day 2 - Reflection Tree and Group Reflection  
 
+![](../images/term-03/distributed-design/exercise2.jpeg)  
+
 *Learning Skills
 What skills did I need during this activity and how can I translate into something useful for me and my future?*  
 
@@ -35,6 +39,8 @@ Did the role I play influence my opinion?*
 I don’t think the role I played influenced my opinion on anything. Looking at the reflection tree at first it was overwhelming but when I started going through the exercise I understood it pretty easily and found it pretty useful.  
 
 ## Day 3 - Value Presentation  
+
+![](../images/term-03/distributed-design/valuepresentation.jpeg)  
 
 *Learning Skills
 What skills did I need during this activity and how can I translate into something useful for me and my future?*  
