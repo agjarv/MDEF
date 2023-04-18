@@ -141,7 +141,7 @@ Check out the full project on our [GitHub](https://github.com/SeherKrishna02/And
 
 ### References
 
-Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library)
+[Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using-the-arduino-accelstepper-library)
 
 [AccelStepper](https://github.com/waspinator/AccelStepper) Library
 
@@ -153,6 +153,8 @@ Using the Arduino AccelStepper Library](https://hackaday.io/project/183713-using
 ## Networking
 
 ![](../images/term-02/digital-prototype/networking.png)
+
+
 
 ## 3D Scanning & 3D Software
 
@@ -174,13 +176,13 @@ It was pretty easy to use. It is based on photogrammetry and lets you export an 
 
 ![](../images/term-02/digital-prototype/Boot_collage.png)
 
-The main problem I ran into was that I couldn't get the bottom of my object. As a result the mesh I was left with was open on the bottom. I had to go into Rhino and clean up the bottom and cap it off to make it 3D printable. This app is great for objects with a flat bottom that could easily be capped off. Considering I scanned a black shoe on top of a black table I think it came out pretty well. There was also an odd hole in the toe that probably resulted from some sort of shadow in the shoe. In the end I decided to leave it because I thought it was funny and wanted to see how it would come out in the print. The 3D printing part was pretty straightforward. I have had 3D printing experience in the past and I had no issues with the printing part. 
+The main problem I ran into was that I couldn't scan the bottom of my object. As a result the mesh I was left with was open on the bottom. I had to go into Rhino and clean up the bottom and cap it off to make it 3D printable. This app is great for objects with a flat bottom that could easily be capped off. Considering I scanned a black shoe on top of a black table I think it came out pretty well. There was also an odd hole in the toe that probably resulted from some sort of shadow in the shoe. In the end I decided to leave it because I thought it was funny and wanted to see how it would come out in the print. The 3D printing part was pretty straightforward. I have had 3D printing experience in the past and I had no issues with the printing part. 
 
 
 ### Files
 
-[Boot.obj](../images/term-02/digital-prototype/Boot.obj)
-[Boot.mtl]((../images/term-02/digital-prototype/Boot.mtl)
+[Boot.obj](../images/term-02/digital-prototype/Boot.obj)  
+[Boot.mtl](../images/term-02/digital-prototype/Boot.mtl)
 
 
 ## Interfaces - Machine Interactions
