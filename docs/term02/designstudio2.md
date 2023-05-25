@@ -22,3 +22,22 @@ My final learning point from the last term is to start earlier! Once I have an i
 ### Next Interventions
 My first interventions will be related to exploring soil ecologies as mentioned above. For the first step I will collect soil microbes from the forest according to the Jadam natural farming practices that I researched last term. That process will take at least 10 days. In the second phase I will start listening to the soil microbes with an interface similar to the one built for the Plant Band intervention. I not exactly sure what I will learn form doing this but I know I'll learn something as I 
 go through this process. 
+
+## Interventions
+
+This term I conducted a series of interventions collectively involved both human and non-human communities as well as communities around Barcelona and more distant communities. All of these interventions were carried out by involving myself personally in different ways. 
+
+
+
+### The Growing of a Citrus Tree
+
+The next intervention involved the collective care of some citrus trees my friend, Kelly, is taking care of for me back in Virginia. Through a series of messages we collectively support the trees and each other through our friendship. Kelly picked up songwriting during the pandemic as one of her many passions and composed a song about the trees and our friendship. In this intervention I explored autoethnographic ways of documentation. Some of the exchanges are very personal and discuss our mental health and how we have supported each other through the years. I chose to only share the portions related to the citrus trees due to the personal nature of the content. Through these exchanges I reflected on what it means to be far away and disconnected from community, the difficulty of caring for others over a long distance, and ways to stay connected through collective care of plants. 
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 80.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj7guG6N0&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj7guG6N0&#x2F;view?utm_content=DAFj7guG6N0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Growing of a Citrus Tree</a> by agjarv
