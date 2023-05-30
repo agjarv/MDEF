@@ -2,7 +2,7 @@
 
 This week we learned about blockchain, cryptography, and decentralized autonomous organizations (DAOs) and explored the social and ethical implications of these technologies. Our instructor, Mar Canet, showed us how to create and mint our own NFTs on the Tezos blockchain. For our assignment we were to develop a project during a workshop related to NFTs, web3, or other topics presented in the course.  
 
-I partnered with Sami and we came up with an idea on a web 3.0 marketplace platform for selling handmade and second-hand goods. This idea is in line with our final intervention related to "crafting communities" where we are encouraging clothing reutilization and ucycling at a community level. We recently visited a textile reutilization center in Barcelona and learned that 50% of the clothing donated in this center can't be reutilized and end up in the landfill or incinerated.  Globally only [20% of textiles](https://theroundup.org/textile-waste-statistics/) are collected and of those only a fraction are able to be reutilized.  
+I partnered with Sami and we came up with an idea on a web 3.0 marketplace platform for selling handmade and second-hand goods. This idea is in line with our final intervention related to "crafting communities" where we are encouraging clothing reutilization and ucycling at a community level. We recently visited a textile reutilization center in Barcelona and learned that 50% of the clothing donated in this center can't be reutilized and end up in the landfill or incinerated.  Globally only [20% of discarded textiles](https://theroundup.org/textile-waste-statistics/) are collected and of those only a fraction are able to be reutilized.  
 
 ![](../images/term-03/collective_intelligence/waste.png)  
 
