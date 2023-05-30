@@ -18,10 +18,7 @@ In this course Victor introduced us to Blender and gave us an in depth look into
 
 It always amazes me what people can build when we don't have to worry about profits. I have heard people argue that making intellectual property closed, patentable, etc allows for more innovation. Blender is a great example on how open software and community can build amazing things without the need for profits. Ultimately the biggest takeaway for me this week was the open and free business model. I will definitely be revisiting that part of it in the future if I am thinking about business models.  
 
-## Live Coding as a Human Interface
-
-
-Sure! I'd be happy to help you edit your submission. Here's a revised version:
+## Live Coding as a Human Interface  
 
 In our course, we had the privilege of listening to Citlali Hernandez's captivating presentation on interaction design, electronics, and embodiment. I was genuinely thrilled to hear about her work, as it resonated strongly with my own interests. One aspect that particularly fascinated me was her journey in designing wearables for performers. Initially, Citlali didn't wear the creations herself, but she soon realized the value of testing them personally and actively participating in the performances. This shift significantly impacted her work. Similarly, I have been involved in designing wearables for performers, but I have not explored the personal aspect of wearing and testing them. Inspired by Citlali's experience, I now feel compelled to engage more intimately with the process of creating these wearables in the future. Although I have been hesitant to express myself as a performer in the past, I am now more open to exploring this avenue.
 
