@@ -107,6 +107,7 @@ nav:
       - Distributed Design: term03/distributeddesign.md
       - Design Ethics: term03/designethics.md
       - Collective Intelligences: term03/collectiveintelligence.md
+      - Digital Prototyping for Design (II): term03/digitalprototyping.md
     - Research Trip:
       - Visit to El Hierro: thesisprojects/elhierro.md
   - Thesis Projects:
@@ -114,6 +115,7 @@ nav:
     - First Design Interventions:
       - The Plant Band: thesisprojects/plantband.md
       - Messages in Resin: thesisprojects/messagesinresin.md
+      
 
 markdown_extensions:
 
