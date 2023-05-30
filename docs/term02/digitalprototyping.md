@@ -252,3 +252,6 @@ With the help of Eduardo and ChatGPT4 we were able to get the microphone to cont
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDA0K5TA&#x2F;watch?utm_content=DAFeDA0K5TA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza Microphone Test</a> by agjarv
+
+
+# [Digital Prototyping for Design: Part II](https://agjarv.github.io/MDEF/term03/digitalprototyping/)
