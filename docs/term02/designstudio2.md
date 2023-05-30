@@ -49,6 +49,13 @@ The next intervention involved the collective care of some citrus trees my frien
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFj7guG6N0&#x2F;view?utm_content=DAFj7guG6N0&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Growing of a Citrus Tree</a> by agjarv
 
+### Crafting Community
+
+In the final intervention Sami and I hosted a few gatherings for our friends to meet and work on craft projects inside and outside of the lab. We had impromptu conversations about what it means to work and rest, what we would do instead of work to benefit our communities if we didn’t have to work so much, and ethical and environmental sustainability of the products that surround our daily life. We got feedback from our classmates that they would like to continue these collective crafting sessions in the next  term. 
+
+The intervention we did on crafting with our classmates wasn’t intended to be an intervention initially but instead came out of a need for us all to have a break from the demands of school and do something creative together. We were just having fun but came to realize how meaningful it was for us to have the space to do it. It wasn’t planned this way from the start but it showed us how meaningful interventions can come from involving yourself and just going with it.
+
+
 ## Alternative Present
 
 All of the interventions I did in term II were definitely connected to eventually lead us to the idea of crafted communities. Along the way we realized that we are unhappy with the pressure that we have to be productive in a system that exploits us, others, and resources.  We are also frustrated that in this system our passions become a means for survival rather than for our own creative enjoyment. During the process of this intervention Sami and I came to the following alternative present where people are empowered to create things themselves rather than relying on an exploitative. We want to create a space where people can slow down and make together, combating isolation, perfectionism, and honoring traditional methods of making.
