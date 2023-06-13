@@ -58,7 +58,7 @@ The intervention we did on crafting with our classmates wasn’t intended to be 
 
 ## Alternative Present
 
-All of the interventions I did in term II were definitely connected to eventually lead us to the idea of crafted communities. Along the way we realized that we are unhappy with the pressure that we have to be productive in a system that exploits us, others, and resources.  We are also frustrated that in this system our passions become a means for survival rather than for our own creative enjoyment. During the process of this intervention Sami and I came to the following alternative present where people are empowered to create things themselves rather than relying on an exploitative. We want to create a space where people can slow down and make together, combating isolation, perfectionism, and honoring traditional methods of making.
+All of the interventions I did in term II were definitely connected to eventually lead us to the idea of crafted communities. Along the way we realized that we are unhappy with the pressure that we have to be productive in a system that exploits us, others, and resources.  We are also frustrated that in this system our passions become a means for survival rather than for our own creative enjoyment. During the process of this intervention Sami and I came to the following alternative present where people are empowered to create things themselves rather than relying on an exploitative system. We want to create a space where people can slow down and make together, combating isolation, perfectionism, and honoring traditional methods of making.
 
 
 ![](../images/term-02/ds2/alternativepresent.png)  
