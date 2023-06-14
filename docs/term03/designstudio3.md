@@ -26,9 +26,9 @@ In the previous term we started out meeting up regularly with our classmates to 
 **Craft in the lab**  
 As we continued meeting we decided to start using tools and resources in the lab to help do our crafts. We started the crafts in the lab in the previous term and continued them into this term.  
 ---
-- Bacteria Dye
+- Bacteria Dye  
     In the previous term we used the Biolab at the Fab Lab to host a small workshop on bacteria dyeing. We dyed some silk fabrics with the bacteria dye. These dyes are more natural than dyes currently used commercially to dye our clothes, work on both synthetic and natural fibers, and require substantially less water. Dyes like this have the potential to contribute to making clothes in a more sustainable way.  
-- Open Source Looms
+- Open Source Looms  
     To continue using the tools in the lab for our crafts we decided to build some looms. We build two separate open source models. We wanted to be able to create some tools that could be used in upcycling fibers into new clothing. One was a rigid heddle loom built by [Kellie Dunn.](https://kelliead.github.io/index.html). We adapted her model to be used on the CNC machine rather than the laser. While making the loom we found some things to improve on for the next time. We are planning to make these improvements and then send them back to the original creator. The second loom was a more basic loom created by [The Interlace Project](https://www.instructables.com/Laser-Cut-Mini-Frame-Loom-Weaving/). This loom was cut on the laser and we recreated it to be used in weaving and upcycling workshops.  
 
 Bacteria Dye in the Lab
@@ -80,7 +80,7 @@ Final Intervention Event Planning
 Final Intervention Poster
 ![](../images/term-03/ds3/OurBlueprintPoster.jpeg)
 
-## Alternative presents to Emergent Futures  
+## Future Heirlooms: Alternative presents to Emergent Futures  
 
 In the previous term Sami and I envisioned an alternative present where people are empowered to create things themselves rather than relying on an exploitative system. We want to create a space where people can slow down and make together, combating isolation, perfectionism, and honoring traditional methods of making. With our final intervention, *Our Blueprint: Crafting Futures Together,* the aim is to teach and empower people to create and transform their own clothes, shaping a more sustainable future together. The present fashion system exploits people and causes massive destruction to the planet. The current role of the designer in the fashion system is top down – the designer works with corporations to determine and dictate what people wear around the world. I would like to see a change where we move toward a model where everyone participates more directly in expressing themselves through what they wear. The role of the designer can be to facilitate this self expression of others through education and guiding people to have the skills they need to express themselves. The designer can also serve as a connector - connecting the broken parts of the fashion systems that can transform it into something that is less exploitative and works for more people. We believe that making together as a community has the power to start making this vision a reality.  
 
