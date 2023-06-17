@@ -18,7 +18,7 @@ Our Initial ideas for the next interventions
 Our collective design space
 ![](../images/term-03/ds3/Ds_Collective.png)  
 
-### Crafting Community: Last Interventions
+## Crafting Community: Last Interventions
 
 **UFO Nights**  
 In the previous term we started out meeting up regularly with our classmates to do some crafts together in an informal setting and to decompress from the week. We continued them into this term. We started calling these nights U.F.O nights, which stands for unfinished objects. The idea is that everyone brings unfinished craft or diy projects they have sitting around to work on.  
@@ -40,7 +40,7 @@ Fabric samples dyed with bacteria and natural pigments
 Loom based on Open Source design by Kellie Dunn
 ![](../images/term-03/ds3/loom1.jpeg)  
 
-#### Visit to Andròmines  
+### Visit to Andròmines  
 We connected with a friend of a colleague, Kat, and started having a discussion about sustainable fashion, natural fibers, and textile waste. We discussed how globally only [20% of discarded textiles](https://theroundup.org/textile-waste-statistics/) are collected and of those only a fraction are able to be reutilized. As we were discussing ways to collaborate, Kat suggested that we design an exhibition around clothing waste. We wanted a way to visualize the problem and raise awareness about clothing waste.  
 
 We eventually connected with a clothing reutilization center called Andròmines. We visited their reuse warehouse in Montcada i Reixac. At this center they collect and sort clothing donations from approximately 50 collection boxes throughout Spain. They collect approximately 800 kilograms every 15 days. Of all that is collected at Andròmines half of that is able to be reutilized or recycled. The rest, known as 'rebuig' (Catalan for refuse), is incinerated or disposed of. This is due to a number of reasons one being the clothing is made from synthetic blended fibers and can’t be recycled, this includes anything where the label has been cut off rendering it unable to be recycled for fibers. Other reasons clothing cannot be reused are that it is of poor quality, that it is damaged beyond reuse or repair or that it comes from a fast fashion label. The clothing from fast fashion has overwhelmed their recycling center and there is so much that there is little to no value in the clothing in the second-hand market. 
@@ -48,7 +48,7 @@ We eventually connected with a clothing reutilization center called Andròmines.
 Clothing ready to be sorted at Andròmines sorting center
 ![](../images/term-03/ds3/andromines1.jpeg)  
 
-#### Clothing Reutilization as a Personal Practice  
+### Clothing Reutilization as a Personal Practice  
 
 One of the ways to address the issues of clothing waste is to change our personal consumption habits. We are hoping people could start to assess their buying habits more critically and assess how and what their clothing is made from [(Jordi)](https://andromines.net/es/2019/06/13/ropa-comprar-o-reutilizar-una-accion-en-nuestras-manos/).The practice of extending the life of our clothes is a crucial part of crafting a more sustainable future. We still need to hold the textile industry accountable for their use of fossil fuels, fast fashion, and workers rights but we can make a significant difference by extending the life of our clothing items. According to [Greenpeace](https://storage.googleapis.com/planet4-international-stateless/2018/01/6c356f9a-fact-sheet-timeout-for-fast-fashion.pdf), extending the life of a clothing item from 1 year to 2 years can reduce the amount of carbon emissions by 24%. 
 
@@ -57,10 +57,10 @@ I have been following several social media influencers online who are sharing th
 Clothing collected from Andròmines refuse bin to be upcycled
 ![](../images/term-03/ds3/clothinglayout2.jpeg) 
 
-#### Visualizing the Waste  
-> rebuig *m* (Catalan) (*plural* rebuigs or rebutjos) NOUN 
->1. rejection, refusal 
->2. refuse (items or material that have been discarded)
+### Visualizing the Waste  
+> rebuig *m* (Catalan) (*plural* rebuigs or rebutjos) NOUN  
+>1. rejection, refusal  
+>2. refuse (items or material that have been discarded)  
 
 After the first visit to Andròmines we had some new ideas for how to design an exhibition. We decided to schedule a second visit and take photos of each article of clothing in one bin. We could then weigh the bin and use the photos as a visualization of how much clothing waste is discarded from one bin. I think carefully laying each article of clothing out and treating them more personally gives a better connection to the material than leaving them in a pile and treating them like trash.  
 
@@ -69,7 +69,7 @@ After the first visit to Andròmines we had some new ideas for how to design an 
 
 ![](../images/term-03/ds3/rebuigBin.png)
 
-#### Our Blueprint: Crafting Futures Together  
+### Our Blueprint: Crafting Futures Together  
 
 For our final intervention Sami and I will be hosting a workshop to invite people to explore the future of fashion through what we wear. The workshop, Our Blueprint: Crafting Futures Together, is meant to celebrate community, creativity, and sustainability. As a community we will be transforming used clothes into vibrant new pieces through an indigo dyeing workshop. Participants will be invited to bring their own clothes, and we also have some items collected from Andromines. At the event we will also present the open source looms as tools people can build themselves to transform old clothing and use to create their own fashion. Lastly we will lead a collaborative discussion on natural fibers featuring our collaborator, Kat, an industry expert on natural fibers in the textile industry. Our aim with a workshop like this is to teach and empower people to create and transform their own clothes, shaping a more sustainable future together. We believe that encouraging making clothes together is better than the current methods of designing and making clothes. 
 
@@ -85,6 +85,44 @@ Final Intervention Poster
 In the previous term Sami and I envisioned an alternative present where people are empowered to create things themselves rather than relying on an exploitative system. We want to create a space where people can slow down and make together, combating isolation, perfectionism, and honoring traditional methods of making. With our final intervention, *Our Blueprint: Crafting Futures Together,* the aim is to teach and empower people to create and transform their own clothes, shaping a more sustainable future together. The present fashion system exploits people and causes massive destruction to the planet. The current role of the designer in the fashion system is top down – the designer works with corporations to determine and dictate what people wear around the world. I would like to see a change where we move toward a model where everyone participates more directly in expressing themselves through what they wear. The role of the designer can be to facilitate this self expression of others through education and guiding people to have the skills they need to express themselves. The designer can also serve as a connector - connecting the broken parts of the fashion systems that can transform it into something that is less exploitative and works for more people. We believe that making together as a community has the power to start making this vision a reality.  
 
 In this intervention we want to invite people to explore this idea of “Future Heirlooms”. We are asking what sort of clothing items would people like to pass on to future generations. Currently we are adding immense amounts of clothing to landfills that will be there for generations to come. These are the things we are currently giving to future generations. We want to spark a discussion about how we can change that by creating, crafting, and loving our clothes. We want to know what such a future would look like to other people. I believe that taking a role as a facilitator in discussions around the future and including everyone is the type of role I can have as a designer, allowing others to design and shape the future through what they wear.  
+
+### Scalability - Designing yourself out  
+
+***Decentralized strategies for sustaining continuity and scalability***
+
+#### Final Design Space  
+
+![](../images/term-03/ds3/Final_design_space.jpeg)  
+
+In my exploration of the final design space, I have identified three key categories: education, production, and culture. As a designer, I envision new ways of relating to each category that can contribute to sustainability and scalability.  
+
+Under the education category, I see the role of a designer as an aid in the distribution of knowledge. By sharing information and facilitating learning experiences, designers can empower individuals and communities to acquire the skills they need for self-expression and creative fulfillment.  
+
+In the production category, I have been working on cultivating microbes and plants and exploring their connection to community-building. I am interested in creating inclusive communities that foster creativity and collaboration. As a designer, I aim to bridge the gap between humans and non-human entities, whether through physical sensors or the design of other systems. For example, I am interested in connecting activists, citizen scientists, and citizen historians with neighborhood makers and technology, fostering collaboration across diverse skill sets.  
+
+The third category, culture, is centered around cultivating inclusive communities in spaces for making and creation. By promoting safe environments where self-expression is encouraged, designers can contribute to the joy and fulfillment found in the creative process. I am particularly passionate about promoting the value of durable and well-made items, including future heirlooms. This extends to our relationship with clothing, where I want to share the appreciation for long-lasting garments and encourage sustainable practices.  
+
+#### Scaling Ideas
+
+One of my long-term aspirations is to establish a makerspace or creative space. This physical space would be accompanied by an online platform focused on sustainability and circular economies, particularly within the fashion industry. The key elements of this platform and physical space include:  
+- Multigenerational and inclusive: A space that welcomes people of all ages and backgrounds, emphasizing inclusivity and diversity within making communities.
+- Circular economies and non-traditional economic models: A central focus on sustainable practices and alternative economic models that prioritize environmental and social considerations, particularly in relation to textiles.
+- Facilitator role of the designer: Moving away from the top-down approach, the designer acts as a facilitator who encourages collaboration and participation from all individuals involved.
+- Community-led and peer-to-peer education: Promoting small local DIY meetups, workshops, and online streaming platforms where knowledge and skills are shared among community members.  
+
+In terms of structure, I have taken inspiration from the Maker Zone in Barcelona and its inclusive practices. Key considerations for the physical space include:  
+
+- Code of conduct: Establishing a comprehensive code of conduct before opening the space, with a collaborative process involving multiple stakeholders.  
+
+- Non-profit cooperative model: Creating a cooperative structure where all participants have ownership and decision-making power.  
+
+- Affordable entrance: Implementing a membership model, similar to a gym, that ensures accessibility and affordability.  
+
+- Inclusivity and zero tolerance: Creating a welcoming environment that values diversity and inclusivity, with zero tolerance for misogyny and racism. Language inclusivity and support for neurodivergent and LGBTQ+ individuals are also prioritized.  
+
+- Hyper-local focus: Recognizing the importance of neighborhood makerspaces that are close to communities, viewing multiple makerspaces in a city as an ecosystem rather than competition.  
+
+Through these decentralized strategies and the combination of physical and online platforms, I aim to create a scalable and sustainable model that fosters creativity, community, and lasting impact.  
 
 
 
