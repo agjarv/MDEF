@@ -86,11 +86,11 @@ In the previous term Sami and I envisioned an alternative present where people a
 
 In this intervention we want to invite people to explore this idea of “Future Heirlooms”. We are asking what sort of clothing items would people like to pass on to future generations. Currently we are adding immense amounts of clothing to landfills that will be there for generations to come. These are the things we are currently giving to future generations. We want to spark a discussion about how we can change that by creating, crafting, and loving our clothes. We want to know what such a future would look like to other people. I believe that taking a role as a facilitator in discussions around the future and including everyone is the type of role I can have as a designer, allowing others to design and shape the future through what they wear.  
 
-### Scalability - Designing yourself out  
+## Scalability - Designing yourself out  
 
 ***Decentralized strategies for sustaining continuity and scalability***
 
-#### Final Design Space  
+### Final Design Space  
 
 ![](../images/term-03/ds3/Final_design_space.jpeg)  
 
@@ -102,7 +102,7 @@ In the production category, I have been working on cultivating microbes and plan
 
 The third category, culture, is centered around cultivating inclusive communities in spaces for making and creation. By promoting safe environments where self-expression is encouraged, designers can contribute to the joy and fulfillment found in the creative process. I am particularly passionate about promoting the value of durable and well-made items, including future heirlooms. This extends to our relationship with clothing, where I want to share the appreciation for long-lasting garments and encourage sustainable practices.  
 
-#### Scaling Ideas
+### Scaling Ideas
 
 One of my long-term aspirations is to establish a makerspace or creative space. This physical space would be accompanied by an online platform focused on sustainability and circular economies, particularly within the fashion industry. The key elements of this platform and physical space include:  
 - Multigenerational and inclusive: A space that welcomes people of all ages and backgrounds, emphasizing inclusivity and diversity within making communities.
