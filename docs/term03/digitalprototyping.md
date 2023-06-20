@@ -28,6 +28,9 @@ Following the presentation, Citlali introduced us to the world of Live Coding, a
 
 ## Blender as Interface
 
+This class we had an opportunity to "look under the hood" of Blender to understand how Blender works behind the scenes. Shapes and geometries are just math and Blender provides an interface to interact visually. By taking a look at coding shapes in Python with Blender we got a better understanding on how it all works under the normal interface of Blender. It is interesting to see yet another way that Blender could be used. I have had some experience using Python in Grasshopper/Rhino to generate shapes so this reminded me of that as well. For me creating shapes this way is a bit tedious because I am not that great at coding yet but I definitely can see the potential to be able to hook this up the Arduino and other electronics. I am looking forward to having some more time in the future to experiment further with connecting my Ardunio and some sensors to Blender as well.  
+
+
 ## Final Micro-challenge: Intellectual Property  
 
 For this final challenge Seher and I continued working on the project we had been working on in previous microchallenges. Our project, Andaaza, was created to encode audio messages onto the surface of everyday objects -- a ceramic cup is what we have started with. Andaaza was created as a storytelling tool to carry our messages through time and to explore alternative ideas of measurement from a post-scientific perspective. In the past two challenges we successfully built a machine that takes audio input in real time, processes it, and embosses it onto a ceramic cup, similar to how sound can be recorded onto a vinyl record.
