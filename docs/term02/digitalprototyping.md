@@ -160,7 +160,11 @@ Check out the full project on our [GitHub](https://github.com/SeherKrishna02/And
 
 ![](../images/term-02/digital-prototype/networking.png)
 
+In this class we learned about the foundations of the internet and how it works. We learned that the internet is essentially a network of devices storing copies of bits on hard drives. We also discussed different types of networks, network layers and ended up creating out own local network in class. 
 
+We connected the ESP32 Feather over the classroom WIFI to an MQTT broker set up by our instructor. Once the messages were received it copied the messages over the WIFI network to all the other ESP32 ESP32 feathers that were connected to the broker. Once the local network was set up were able to receive messages to our classmates through the Arduino serial monitor. 
+
+I saw this class as a sort of continuation of what we learned in the inputs and outputs class. It is interesting to learn about different high and more low tech ways of communication but using the same Arduino board. It helped me understand and contextualize all the different layers of communication protocols on both on the Arduino hardware and over a more complicated network. After this class I am seeing more and more possibilities for things I can do with this.  
 
 ## 3D Scanning & 3D Software
 
