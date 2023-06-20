@@ -101,9 +101,15 @@ slate frame from Goldwork by Hazel Everett
 
 Image from [Goldwork Techniques, Projects, and Pure Inspiration by Hazel Everett](https://www.goodreads.com/en/book/show/12597395)
 
-## Inputs and Outputs
+## Inputs and Outputs  
 
-Work in progress... I spent too much time working on my potentiometer and didn't get into this yet. 
+![](../images/term-02/digital-prototype/outputs.gif)  
+
+In this class we learned how we could communicate between two Arduinos using an LED connected to one Arduino to transmit pulses or dots and dashes to another Ardiuino that has a light sensor (LDR). This would allow messages to be sent between the two Arduinos encoded in Morse Code.  
+
+I had already used an LDR sensor in a previous project so I wanted to work on the transmitting (LED) side. I tried it a bit myself but couldn't get it to work on my own so I went on a search for some examples to help me out. I found this [adaptive morse code detector](https://www.hackster.io/shjin/adaptive-led-morse-code-decoder-and-timer-interrupt-8d18a7) on instructables and tried it out. They have the code for both the encoder and decoder but I just worked with the encoder. With this I was able to control the pulses of the LED with the by changing the text in the code.  
+
+I really think it was cool to use the LED as an output and a sensor on the other to communicate between the two boards. I have used sensors before to sense things like the environment or movement but I never thought to communicate between two Arduinos this way. Further I would have thought you would need to do something more complicated like connect to a WIFI Network or Bluetooth to actually communicate between two devices like this. Communication was accomplished with two way more simple components. It gives me another way to think about different ways to connect and think about these devices. 
 
 ### References
 
