@@ -1,0 +1,1765 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Master in Design for Emergent Futures">
+      
+      
+        <meta name="author" content="Amanda Jarvis">
+      
+      
+        <link rel="canonical" href="https://agjarv.github.io/MDEF/term02/digitalprototyping/">
+      
+      
+        <link rel="prev" href="../remixingmaterials/">
+      
+      
+        <link rel="next" href="../communicatingideas/">
+      
+      <link rel="icon" href="../../images/alpha-x-box.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.16">
+    
+    
+      
+        <title>Digital Prototyping for Design - Amanda Jarvis - MDEF Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.26e3688c.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto+Sans:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Noto Sans";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="amber">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#digital-prototyping-for-design" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Amanda Jarvis - MDEF Documentation" class="md-header__button md-logo" aria-label="Amanda Jarvis - MDEF Documentation" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7h2l1 2.5L13 7h2l-2 5 2 5h-2l-1-2.5-1 2.5H9l2-5-2-5M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Amanda Jarvis - MDEF Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Digital Prototyping for Design
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="deep-purple" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+          <a href="javascript:void(0)" class="md-search__icon md-icon" title="Share" aria-label="Share" data-clipboard data-clipboard-text="" data-md-component="search-share" tabindex="-1">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7 0-.24-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9a3 3 0 0 0-3 3 3 3 0 0 0 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.15c-.05.21-.08.43-.08.66 0 1.61 1.31 2.91 2.92 2.91 1.61 0 2.92-1.3 2.92-2.91A2.92 2.92 0 0 0 18 16.08Z"/></svg>
+          </a>
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/agjarv/MDEF" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.94 13.11-1.05-3.22c0-.03-.01-.06-.02-.09l-2.11-6.48a.859.859 0 0 0-.8-.57c-.36 0-.68.25-.79.58l-2 6.17H8.84L6.83 3.33a.851.851 0 0 0-.79-.58c-.37 0-.69.25-.8.58L3.13 9.82v.01l-1.07 3.28c-.16.5.01 1.04.44 1.34l9.22 6.71c.17.12.39.12.56-.01l9.22-6.7c.43-.3.6-.84.44-1.34M8.15 10.45l2.57 7.91-6.17-7.91m8.73 7.92 2.47-7.59.1-.33h3.61l-5.59 7.16m4.1-13.67 1.81 5.56h-3.62m-1.3.95-1.79 5.51L12 19.24l-2.86-8.79M6.03 3.94 7.84 9.5H4.23m-1.18 4.19c-.09-.07-.13-.19-.09-.29l.79-2.43 5.82 7.45m11.38-4.73-6.51 4.73.02-.03 5.79-7.42.79 2.43c.04.1 0 .22-.09.29"/></svg>
+  </div>
+  <div class="md-source__repository">
+    agjarv/MDEF
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../reflections/" class="md-tabs__link md-tabs__link--active">
+        Reflections
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../thesisprojects/" class="md-tabs__link">
+        Thesis Projects
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Amanda Jarvis - MDEF Documentation" class="md-nav__button md-logo" aria-label="Amanda Jarvis - MDEF Documentation" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9 7h2l1 2.5L13 7h2l-2 5 2 5h-2l-1-2.5-1 2.5H9l2-5-2-5M5 3h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2m0 2v14h14V5H5Z"/></svg>
+
+    </a>
+    Amanda Jarvis - MDEF Documentation
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/agjarv/MDEF" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.94 13.11-1.05-3.22c0-.03-.01-.06-.02-.09l-2.11-6.48a.859.859 0 0 0-.8-.57c-.36 0-.68.25-.79.58l-2 6.17H8.84L6.83 3.33a.851.851 0 0 0-.79-.58c-.37 0-.69.25-.8.58L3.13 9.82v.01l-1.07 3.28c-.16.5.01 1.04.44 1.34l9.22 6.71c.17.12.39.12.56-.01l9.22-6.7c.43-.3.6-.84.44-1.34M8.15 10.45l2.57 7.91-6.17-7.91m8.73 7.92 2.47-7.59.1-.33h3.61l-5.59 7.16m4.1-13.67 1.81 5.56h-3.62m-1.3.95-1.79 5.51L12 19.24l-2.86-8.79M6.03 3.94 7.84 9.5H4.23m-1.18 4.19c-.09-.07-.13-.19-.09-.29l.79-2.43 5.82 7.45m11.38-4.73-6.51 4.73.02-.03 5.79-7.42.79 2.43c.04.1 0 .22-.09.29"/></svg>
+  </div>
+  <div class="md-source__repository">
+    agjarv/MDEF
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../reflections/">Reflections</a>
+          
+            <label for="__nav_2">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Reflections
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+          Term 1
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Term 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/designstudio1/" class="md-nav__link">
+        Design Studio - Term 1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/bootcamp/" class="md-nav__link">
+        Bootcamp
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/awos/" class="md-nav__link">
+        Atlas of Weak Signals (AoWS)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/bioandagri0/" class="md-nav__link">
+        Biology and Agri Zero
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/livingwithyourideas/" class="md-nav__link">
+        Living With Your Own Ideas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/techbeyondmyth/" class="md-nav__link">
+        Tech Beyond the Myth
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/communityengagement/" class="md-nav__link">
+        Community Engagement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term01/extendedintelligences/" class="md-nav__link">
+        Extended Intelligences
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" checked>
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+          Term 2
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Term 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../designstudio2/" class="md-nav__link">
+        Design Studio - Term 2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../futuretalks/" class="md-nav__link">
+        Future Talks
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../designbillionseconds/" class="md-nav__link">
+        Design for the Next Billion Seconds
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../remixingmaterials/" class="md-nav__link">
+        Remixing Materials
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Digital Prototyping for Design
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Digital Prototyping for Design
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#electronics-and-coding" class="md-nav__link">
+    Electronics and Coding
+  </a>
+  
+    <nav class="md-nav" aria-label="Electronics and Coding">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2d3d-design-tools" class="md-nav__link">
+    2D/3D Design Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="2D/3D Design Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_1" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2d-fabrication" class="md-nav__link">
+    2D Fabrication
+  </a>
+  
+    <nav class="md-nav" aria-label="2D Fabrication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_1" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_2" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-and-outputs" class="md-nav__link">
+    Inputs and Outputs
+  </a>
+  
+    <nav class="md-nav" aria-label="Inputs and Outputs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references_3" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#micro-challenge-1" class="md-nav__link">
+    Micro Challenge 1
+  </a>
+  
+    <nav class="md-nav" aria-label="Micro Challenge 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references_4" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#networking" class="md-nav__link">
+    Networking
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3d-scanning-3d-software" class="md-nav__link">
+    3D Scanning &amp; 3D Software
+  </a>
+  
+    <nav class="md-nav" aria-label="3D Scanning & 3D Software">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_2" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interfaces-machine-interactions" class="md-nav__link">
+    Interfaces - Machine Interactions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cnc" class="md-nav__link">
+    CNC
+  </a>
+  
+    <nav class="md-nav" aria-label="CNC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_3" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_5" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#micro-challenge-2" class="md-nav__link">
+    Micro Challenge 2
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../communicatingideas/" class="md-nav__link">
+        Communicating Ideas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../makingsensemeaning/" class="md-nav__link">
+        Making Sense and Meaning
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../measuringtheworld/" class="md-nav__link">
+        Measuring the World
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+          Term 3
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_4">
+          <span class="md-nav__icon md-icon"></span>
+          Term 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/designstudio3/" class="md-nav__link">
+        Design Studio Term 3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/distributeddesign/" class="md-nav__link">
+        Distributed Design
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/designethics/" class="md-nav__link">
+        Design Ethics
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/transfeministdesign/" class="md-nav__link">
+        Critical Transfeminist Design
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/collectiveintelligence/" class="md-nav__link">
+        Collective Intelligences
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../term03/digitalprototyping/" class="md-nav__link">
+        Digital Prototyping for Design II
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+      
+      
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+          Research Trip
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_5_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_5">
+          <span class="md-nav__icon md-icon"></span>
+          Research Trip
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../thesisprojects/elhierro/" class="md-nav__link">
+        Visit to El Hierro
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../thesisprojects/">Thesis Projects</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Thesis Projects
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_2" >
+      
+      
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_3_2" id="__nav_3_2_label" tabindex="0">
+          First Design Interventions
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_3_2">
+          <span class="md-nav__icon md-icon"></span>
+          First Design Interventions
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../thesisprojects/plantband/" class="md-nav__link">
+        The Plant Band
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../thesisprojects/messagesinresin/" class="md-nav__link">
+        Messages in Resin
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../thesisprojects/craftcommunity/" class="md-nav__link">
+        Crafting Communities
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#electronics-and-coding" class="md-nav__link">
+    Electronics and Coding
+  </a>
+  
+    <nav class="md-nav" aria-label="Electronics and Coding">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2d3d-design-tools" class="md-nav__link">
+    2D/3D Design Tools
+  </a>
+  
+    <nav class="md-nav" aria-label="2D/3D Design Tools">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_1" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2d-fabrication" class="md-nav__link">
+    2D Fabrication
+  </a>
+  
+    <nav class="md-nav" aria-label="2D Fabrication">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_1" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_2" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#inputs-and-outputs" class="md-nav__link">
+    Inputs and Outputs
+  </a>
+  
+    <nav class="md-nav" aria-label="Inputs and Outputs">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references_3" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#micro-challenge-1" class="md-nav__link">
+    Micro Challenge 1
+  </a>
+  
+    <nav class="md-nav" aria-label="Micro Challenge 1">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#references_4" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#networking" class="md-nav__link">
+    Networking
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3d-scanning-3d-software" class="md-nav__link">
+    3D Scanning &amp; 3D Software
+  </a>
+  
+    <nav class="md-nav" aria-label="3D Scanning & 3D Software">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_2" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interfaces-machine-interactions" class="md-nav__link">
+    Interfaces - Machine Interactions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#cnc" class="md-nav__link">
+    CNC
+  </a>
+  
+    <nav class="md-nav" aria-label="CNC">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#files_3" class="md-nav__link">
+    Files
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#references_5" class="md-nav__link">
+    References
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#micro-challenge-2" class="md-nav__link">
+    Micro Challenge 2
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+  
+
+
+<h1 id="digital-prototyping-for-design">Digital Prototyping for Design<a class="headerlink" href="#digital-prototyping-for-design" title="Permanent link">&para;</a></h1>
+<h2 id="electronics-and-coding">Electronics and Coding<a class="headerlink" href="#electronics-and-coding" title="Permanent link">&para;</a></h2>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/800695881?h=93c8090f85&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Ribbon Potentiometer"></iframe></div>
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+<p>The task for this day was to make some music with an Ardunio compatible board using a buzzer as an output. I started with some built in examples using the tone() function. To take it further I wanted to find a more interesting way to control the sounds rather than using a programmed melody. I started out with a potentiometer to control the pitch using the Arduino tone() function. This function generates synthesized square waves. </p>
+<p>I am interested in making a version of this <a href="https://www.instructables.com/PaperSynth-an-8-bit-Synthesizer-Made-Out-of-Paper-/">paper synthesizer</a> eventually. I wanted to see if I could make my own ribbon potentiometer instead of buying the soft potentiometer that they suggest. I found a couple resources online that I have linked below in references. I made a quick prototype out of an old TMB (metro) card, some conductive tape, and a strip of Velostat. </p>
+<p>It took quite a bit of testing and research to figure out how to get it to work properly since I know very little about electrical engineering. When I first plugged the sensor in it was reacting to touch but also still jumping all over the place when it wasn't being activated. I realized I needed to add a pulldown resistor to keep it at a zero value when it was not pressed. That resolved the problem of it making sounds when touched. I had another issue of it being jumpy and playing multiple notes when it was touched. I solved that by smoothing the analog input from the sensor. I had some problems getting it right and kept getting an error. I went and asked ChatGPT to help me figure out where I was going wrong and I got a great answer! ChatGPT explained to me exactly where I went wrong and suggested a few lines to fix the mistake. I got the paper potentiometer working really well but I was getting sick of the Ardunio tone() screams and beeps. </p>
+<p>I decided to explore the Mozzi Library a bit. Mozzi uses oscillators and filters to make way more interesting sounds. I tried out some of the example codes with the paper potentiometer and was pretty cool. In the future weeks I am interested in making a diy synth based on this paper potentiometer and the Mozzi library. </p>
+<p>(use the arrows to see the other pages of the presentation)</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaf9KXaPw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaf9KXaPw&#x2F;view?utm_content=DAFaf9KXaPw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"> Electronics and Coding Lab Notes</a> by amanda</p>
+<h3 id="references">References<a class="headerlink" href="#references" title="Permanent link">&para;</a></h3>
+<ul>
+<li>
+<p><a href="https://diyelectromusic.wordpress.com/2020/06/01/arduino-tone-generator/">Arduino Tone Generator</a> by Kevin at diyelectronicmusic.wordpress.com</p>
+</li>
+<li>
+<p><a href="https://www.instructables.com/Make-a-Ribbon-Controller/">Ribbon Potentiometer</a> on Inscrutables</p>
+</li>
+<li>
+<p><a href="http://www.ooooo.be/devices/ribbon4/ribbon4.htm">DIY Resistive Ribbon Sensor</a></p>
+</li>
+<li>
+<p><a href="https://www.instructables.com/Analog-Input/">Analog Input Instructables</a></p>
+</li>
+<li>
+<p><a href="https://sensorium.github.io/Mozzi/examples/">Mozzi Library</a></p>
+</li>
+<li>
+<p><a href="https://www.instructables.com/PaperSynth-an-8-bit-Synthesizer-Made-Out-of-Paper-/">Paper Synth</a> by Bryan Cera</p>
+</li>
+</ul>
+<h2 id="2d3d-design-tools">2D/3D Design Tools<a class="headerlink" href="#2d3d-design-tools" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/voronoiOverdose.png" /></p>
+<p>For this activity we were tasked with creating a 3D design based on algorithmic thinking of any object. I chose to work with Grasshopper. I have taken a few classes and tutorials on this over the last several years but I don't use it so I tend to forget everything I learn. I am hoping to use it more this term and hopefully retain some of what I learn. </p>
+<p>I started out by following a grasshopper beginner tutorial online. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/grasshopperanimate.gif" /><br />
+playing with attractor points</p>
+<p>I started following some more grasshopper tutorials and decided to work on using some of SVGs that I created in some previous weeks as a starting point. This proved to be way more difficult than I realized. It is hard (for a beginner) to get the Voronoi tesselation to work in a non-rectangular surface. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/voronoifail.png" /></p>
+<p>Eventually after many hours, errors, and warnings of Voronoi overdose from Grasshopper I managed to get something I could use. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/voronoibutterflyblue.png" />
+Voronoi tessellated butterflies</p>
+<p>I was using some similar designs last year during Fabricademy that I 3D printed onto fabric during the <a href="https://class.textile-academy.org/2022/amanda-jarvis/assignments/week07/">Computational Couture</a> week. Before when I made them I had to start with a square of the tesselation and then cut the shape out that I wanted each time. With this parametric version I can import any SVGs and convert them to this pattern that is nice for 3D printing on fabrics. I also have sliders to control the numbers of points, height of extrusion, and seed pattern so I can adjust depending on the look I am going for. </p>
+<h3 id="files">Files<a class="headerlink" href="#files" title="Permanent link">&para;</a></h3>
+<p><a href="../../images/term-02/digital-prototype/VeronoiSurface.gh">VoronoiSurface.gh</a></p>
+<p><a href="../../images/term-02/digital-prototype/voronoiButterflies.3dm">voronoiButterflies.3dm</a></p>
+<h3 id="references_1">References<a class="headerlink" href="#references_1" title="Permanent link">&para;</a></h3>
+<p><a href="https://www.youtube.com/watch?v=zDDVeDldvaI">Grasshopper Beginner Tutorial</a></p>
+<p><a href="https://www.youtube.com/watch?v=YDFofhlWNxs">Grasshopper Voronoi on Surface</a></p>
+<h2 id="2d-fabrication">2D Fabrication<a class="headerlink" href="#2d-fabrication" title="Permanent link">&para;</a></h2>
+<p>For this task we had to design and laser cut a pressfit artifact. I wanted to make a tool for a new embroidery hobby I recently picked up. I designed a rectangular slate embroidery frame to be cut on the laser. These frames are typically made from wood and fit together with pegs and lacing thread. I designed a version that fits together with laser cut parts. I adjusted only some of the slots to account for the laser kerf as I wanted some of the pieces to be permanent and some of the pieces that act like pegs to be able to be removed over and over in line with the original design.</p>
+<p><img alt="" src="../../images/term-02/digital-prototype/goldworkFrame.jpeg" /><br />
+slate frame from Goldwork by Hazel Everett</p>
+<p><img alt="" src="../../images/term-02/digital-prototype/embroideryframe.png" />  </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/embroidery_frame_assemble.png" /></p>
+<h3 id="files_1">Files<a class="headerlink" href="#files_1" title="Permanent link">&para;</a></h3>
+<p><a href="../../images/term-02/digital-prototype/SlateFrame4mm.dxf">SlateFrame4mm.dxf</a>  </p>
+<p><a href="../../images/term-02/digital-prototype/SlateFrame4mm.svg">SlateFrame4mm.svg</a></p>
+<h3 id="references_2">References<a class="headerlink" href="#references_2" title="Permanent link">&para;</a></h3>
+<p><a href="http://wiki.fablab.is/wiki/Inkscape_how_to_make_a_pressfit_design">Pressfit Design in Inkscape</a></p>
+<p>Image from <a href="https://www.goodreads.com/en/book/show/12597395">Goldwork Techniques, Projects, and Pure Inspiration by Hazel Everett</a></p>
+<h2 id="inputs-and-outputs">Inputs and Outputs<a class="headerlink" href="#inputs-and-outputs" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/outputs.gif" />  </p>
+<p>In this class we learned how we could communicate between two Arduinos using an LED connected to one Arduino to transmit pulses or dots and dashes to another Ardiuino that has a light sensor (LDR). This would allow messages to be sent between the two Arduinos encoded in Morse Code.  </p>
+<p>I had already used an LDR sensor in a previous project so I wanted to work on the transmitting (LED) side. I tried it a bit myself but couldn't get it to work on my own so I went on a search for some examples to help me out. I found this <a href="https://www.hackster.io/shjin/adaptive-led-morse-code-decoder-and-timer-interrupt-8d18a7">adaptive morse code detector</a> on instructables and tried it out. They have the code for both the encoder and decoder but I just worked with the encoder. With this I was able to control the pulses of the LED with the by changing the text in the code.  </p>
+<p>I really think it was cool to use the LED as an output and a sensor on the other to communicate between the two boards. I have used sensors before to sense things like the environment or movement but I never thought to communicate between two Arduinos this way. Further I would have thought you would need to do something more complicated like connect to a WIFI Network or Bluetooth to actually communicate between two devices like this. Communication was accomplished with two way more simple components. It gives me another way to think about different ways to connect and think about these devices. </p>
+<h3 id="references_3">References<a class="headerlink" href="#references_3" title="Permanent link">&para;</a></h3>
+<p><a href="https://www.hackster.io/shjin/adaptive-led-morse-code-decoder-and-timer-interrupt-8d18a7">Adaptive Morse Code Detector</a></p>
+<p><a href="https://forum.arduino.cc/t/pulse-counter-and-time-measurement/904085/12">Pulse Counter</a></p>
+<p><a href="https://learn.adafruit.com/photocells/arduino-code">Photocell Reading</a></p>
+<h2 id="micro-challenge-1">Micro Challenge 1<a class="headerlink" href="#micro-challenge-1" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/andaaza2.jpeg" /></p>
+<p>We were given a "Micro Challenge" to design and build a tool or artifact to help in the process of designing, creating, thinking, or collaborating with others. For this challenge, I teamed up with Myrto and Seher. We come from different professional backgrounds, and it took us a while to think of an idea that would align with all of our research interests. Eventually, we settled on the question: what if we could store data inside the objects we use in our daily life?</p>
+<p>We were inspired to explore the concept of measuring from a hyper-personal perspective in a post-scientific way. We asked each other questions, such as when does measuring stop facilitating and start preventing a process? Are the usual measuring units contrary to replicability? Why do we measure things? Is it to save time instead of doing everything by trial and error, or for capitalism and control outcome prediction? We also wanted to explore other fields, such as storytelling and the strict binary distinction between the "positive" and "negative" of molds and objects.</p>
+<p>We began designing a tool that could encode audio messages onto the surface of everyday objects. This machine would be able to take audio input in real time, process it, and emboss it onto a ceramic cup, similar to how sound can be recorded onto a vinyl record. The messages will be engraved onto ceramics, and cups, pots, and other objects will become carriers of our stories that will travel through time. It is a concept that deals with continuity and archiving.</p>
+<p>We knew this would be an ambitious artifact to make, and we most likely wouldn't be able to complete it in the four days of the first micro challenge. We planned to make the first iteration of the prototype this week, which consists of a motorized turntable and an arm that could move up and down and hold different toolheads such as a pen. This first iteration was designed to write on a paper cup and test out our idea. We hope to make improvements to the design in subsequent micro challenge weeks.</p>
+<p>Although we come from different backgrounds, I think this allowed us to make a lot of progress in a short amount of time. Each of us had strengths that we were able to contribute to the group work this week. In the last few days, I spent a lot of time learning about how to program microcontrollers to control the two servo motors we needed for this prototype. I had never programmed a motor before, so this was all new to me. It was really fun, and I am looking forward to getting more into it in the coming weeks. My teammates focused on the design and fabrication of the turntable and started exploring the sound sensing piece of the project. We didn't have time to connect the sound input to the project, but we will be exploring that in the coming weeks. This week, we managed to build a simple and nice turntable and motorize it, as well as create a frame for the z-axis that will serve as an interchangeable toolhead for pens and carving tools.</p>
+<p>Check out the full project on our <a href="https://github.com/SeherKrishna02/Andaaza">GitHub</a></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFaumtP7p8&#x2F;view?utm_content=DAFaumtP7p8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza</a> by Seher, Myrto, &amp; Amanda</p>
+<h3 id="references_4">References<a class="headerlink" href="#references_4" title="Permanent link">&para;</a></h3>
+<p><a href="https://hackaday.io/project/183713-using-the-arduino-accelstepper-library">Using the Arduino AccelStepper Library</a></p>
+<p><a href="https://github.com/waspinator/AccelStepper">AccelStepper</a> Library</p>
+<p><a href="https://fabacademy.org/2020/labs/digiscope/students/ambroise-devries/docs/p02.html">Vinyl Record Cutting Lathe</a> Fabacademy Project by Ambroise de Vries</p>
+<p><a href="http://fab.cba.mit.edu/classes/863.09/people/lifeform/13/index.html">DIY Record Cutting</a> Fabacademy project by David Robert</p>
+<h2 id="networking">Networking<a class="headerlink" href="#networking" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/networking.png" /></p>
+<p>In this class we learned about the foundations of the internet and how it works. We learned that the internet is essentially a network of devices storing copies of bits on hard drives. We also discussed different types of networks, network layers and ended up creating out own local network in class. </p>
+<p>We connected the ESP32 Feather over the classroom WIFI to an MQTT broker set up by our instructor. Once the messages were received it copied the messages over the WIFI network to all the other ESP32 ESP32 feathers that were connected to the broker. Once the local network was set up were able to receive messages to our classmates through the Arduino serial monitor. </p>
+<p>I saw this class as a sort of continuation of what we learned in the inputs and outputs class. It is interesting to learn about different high and more low tech ways of communication but using the same Arduino board. It helped me understand and contextualize all the different layers of communication protocols on both on the Arduino hardware and over a more complicated network. After this class I am seeing more and more possibilities for things I can do with this.  </p>
+<h2 id="3d-scanning-3d-software">3D Scanning &amp; 3D Software<a class="headerlink" href="#3d-scanning-3d-software" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/3d_print_lab.png" /></p>
+<p>For this class we learned about 3D scanning tools and 3D printing. We also got to learn how the Fab Lab 3d printers and booking system worked. Our task for this two options:</p>
+<p>Scan an object and then print it </p>
+<p>or</p>
+<p>Print and object and then scan it</p>
+<p>I decided to scan an object and then see if I could print it. I had tried some cell phone scanning and photogrammetry apps in the past with varying results. This time I tried an entirely new one called Captur3. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/Captur3.png" /></p>
+<p>It was pretty easy to use. It is based on photogrammetry and lets you export an obj for free. First, you define 3 sides of the image. After those points are set you walk around the object to scan all sides.</p>
+<p><img alt="" src="../../images/term-02/digital-prototype/Boot_collage.png" /></p>
+<p>The main problem I ran into was that I couldn't scan the bottom of my object. As a result the mesh I was left with was open on the bottom. I had to go into Rhino and clean up the bottom and cap it off to make it 3D printable. This app is great for objects with a flat bottom that could easily be capped off. Considering I scanned a black shoe on top of a black table I think it came out pretty well. There was also an odd hole in the toe that probably resulted from some sort of shadow in the shoe. In the end I decided to leave it because I thought it was funny and wanted to see how it would come out in the print. The 3D printing part was pretty straightforward. I have had 3D printing experience in the past and I had no issues with the printing part. </p>
+<h3 id="files_2">Files<a class="headerlink" href="#files_2" title="Permanent link">&para;</a></h3>
+<p><a href="../../images/term-02/digital-prototype/Boot.obj">Boot.obj</a><br />
+<a href="../../images/term-02/digital-prototype/Boot.mtl">Boot.mtl</a></p>
+<h2 id="interfaces-machine-interactions">Interfaces - Machine Interactions<a class="headerlink" href="#interfaces-machine-interactions" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/machine_interactions.png" /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDBELYFY&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDBELYFY&#x2F;watch?utm_content=DAFeDBELYFY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Machine Interactions</a> by agjarv</p>
+<h2 id="cnc">CNC<a class="headerlink" href="#cnc" title="Permanent link">&para;</a></h2>
+<p><img alt="" src="../../images/term-02/digital-prototype/cnc_simulation.png" /></p>
+<p>For this week I partnered with Sami to recreate an open source loom project we found online from <a href="https://kelliead.github.io/index.html">Kellie Dunn.</a> Sami and I hope to recreate the loom and use it to host weaving workshops to our craft group in the next term. This project will include cnc milled, laser cut, and 3D printed parts. Here I will document the CNC milled portion. Her original design was meant to be entirely laser cut and we adapted it so the frame could be milled on the CNC.</p>
+<p><img alt="" src="../../images/term-02/digital-prototype/loom_cutting.png" /></p>
+<p>Kellie had great documentation on her Github on how she made the loom. Her goal was to make a loom that is functional and also a beautiful object someone would want to keep around. She also included suggestions at the end for improvements she would make if she made the loom again. Sami and I incorporated these suggestions and redesigned the loom a bit before recreating it. To make the loom more sturdy we added another support beam to the bottom to the bottom to make it more stable and to keep it from skewing under tension. We also created pockets for the heddle to sit down into to keep it from skewing from side to side like it would in the more open design. When assembling we went ahead and reversed the screws on the ratcheting mechanisms to prevent them from interfering with the clothing winding around.  </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/loom_sanding.png" /></p>
+<p>Overall we were really with the quality and finish of the plywood once we sanded it. There were some tolerance issued with all the dowels fitting into the holes initially. Some fit and some did not due to inconsistencies in the dowels we bought. A moderate amount of hand sanding solved this and allowed them to fit. We learned a lot on how to prepare the files for the CNC. Some things we would need to consider going forward is the size of the mill end in relation to the screws we are using. Eduardo helped us resolve all of our issued pretty quickly and now we have a better idea on how do design for CNC milling in the future. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/loom_assembled.png" /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDSBWCMA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDSBWCMA&#x2F;watch?utm_content=DAFeDSBWCMA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Ratchet Test</a> by agjarv</p>
+<h3 id="files_3">Files<a class="headerlink" href="#files_3" title="Permanent link">&para;</a></h3>
+<h3 id="references_5">References<a class="headerlink" href="#references_5" title="Permanent link">&para;</a></h3>
+<p><a href="https://kelliead.github.io/index.html">Github for Kellie Dunn's Loom</a></p>
+<h2 id="micro-challenge-2">Micro Challenge 2<a class="headerlink" href="#micro-challenge-2" title="Permanent link">&para;</a></h2>
+<p>Myrto, Seher, and I decided to continue working on our project from the last challenge. We made a good amount of progress this time. The main parts we focused on were modeling, molding and casting a plaster mold for our ceramic cups to be slipcast and connecting a microphone interface for the z-axis stepper motor. We made some mistakes, learned a lot and still had a lot of fun in the process. </p>
+<p>Check out the full project on our <a href="https://github.com/SeherKrishna02/Andaaza">GitHub</a></p>
+<p>I have had some experience with making slipcast molds from 3D printed objects in the past. Usually I build the molds with removable side walls. In this project we decided to 3D print the entire mold including the mold. This also ended up taking over 7 hours to print each half of the mold. We ran into some issues with our mold design as well. The walls were too rigid for the plaster to slip out. As a result we had to break the plastic mold to get our plaster mold removed. In the next iterations we will definitely be making molds for the plaster with removable walls. </p>
+<p><img alt="" src="../../images/term-02/digital-prototype/Molding_Process.png" /></p>
+<p>With the help of Eduardo and ChatGPT4 we were able to get the microphone to control the z-axis motor. It is designed to that when the sound coming from the microphone goes above a threshold the z-axis steps up a bit on its slow continuous descent. This cause the blade to make a little "jump" in response to the vibrations of the voice. It is still not working perfectly as the turntable motor pauses momentarily when the z-axis moves up. Despite this we managed to carve one cup as a proof of concept. We are looking forward to making more improvements in the future. </p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDA0K5TA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<p><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFeDA0K5TA&#x2F;watch?utm_content=DAFeDA0K5TA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Andaaza Microphone Test</a> by agjarv</p>
+<h1 id="digital-prototyping-for-design-part-ii"><a href="https://agjarv.github.io/MDEF/term03/digitalprototyping/">Digital Prototyping for Design: Part II</a><a class="headerlink" href="#digital-prototyping-for-design-part-ii" title="Permanent link">&para;</a></h1>
+
+  <hr>
+<div class="md-source-file">
+  <small>
+    
+      Last update:
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 20, 2023</span>
+      
+        <br>
+        Created:
+        <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">June 20, 2023</span>
+      
+    
+  </small>
+</div>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyleft 2022 "Amanda Jarvis" - GNU Free Documentation License
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://instagram.com/agjarv" target="_blank" rel="noopener" title="instagram.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/agjarv/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:<agjarv@gmail.com>" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M498.1 5.6c10.1 7 15.4 19.1 13.5 31.2l-64 416c-1.5 9.7-7.4 18.2-16 23s-18.9 5.4-28 1.6L284 427.7l-68.5 74.1c-8.9 9.7-22.9 12.9-35.2 8.1S160 493.2 160 480v-83.6c0-4 1.5-7.8 4.2-10.7l167.6-182.9c5.8-6.3 5.6-16-.4-22s-15.7-6.4-22-.7L106 360.8l-88.3-44.2C7.1 311.3.3 300.7 0 288.9s5.9-22.8 16.1-28.7l448-256c10.7-6.1 23.9-5.5 34 1.4z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://couture.tech" target="_blank" rel="noopener" title="couture.tech" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M352 256c0 22.2-1.2 43.6-3.3 64H163.3c-2.2-20.4-3.3-41.8-3.3-64s1.2-43.6 3.3-64h185.4c2.2 20.4 3.3 41.8 3.3 64zm28.8-64h123.1c5.3 20.5 8.1 41.9 8.1 64s-2.8 43.5-8.1 64H380.8c2.1-20.6 3.2-42 3.2-64s-1.1-43.4-3.2-64zm112.6-32H376.7c-10-63.9-29.8-117.4-55.3-151.6 78.3 20.7 142 77.5 171.9 151.6zm-149.1 0H167.7c6.1-36.4 15.5-68.6 27-94.7 10.5-23.6 22.2-40.7 33.5-51.5C239.4 3.2 248.7 0 256 0s16.6 3.2 27.8 13.8c11.3 10.8 23 27.9 33.5 51.5 11.6 26 20.9 58.2 27 94.7zm-209 0H18.6c30-74.1 93.6-130.9 172-151.6-25.5 34.2-45.3 87.7-55.3 151.6zM8.1 192h123.1c-2.1 20.6-3.2 42-3.2 64s1.1 43.4 3.2 64H8.1C2.8 299.5 0 278.1 0 256s2.8-43.5 8.1-64zm186.6 254.6c-11.6-26-20.9-58.2-27-94.6h176.6c-6.1 36.4-15.5 68.6-27 94.6-10.5 23.6-22.2 40.7-33.5 51.5-11.2 10.7-20.5 13.9-27.8 13.9s-16.6-3.2-27.8-13.8c-11.3-10.8-23-27.9-33.5-51.5zM135.3 352c10 63.9 29.8 117.4 55.3 151.6-78.4-20.7-142-77.5-172-151.6h116.7zm358.1 0c-30 74.1-93.6 130.9-171.9 151.6 25.5-34.2 45.2-87.7 55.3-151.6h116.6z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/agjarv/" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["content.code.annotate", "content.tooltips", "navigation.indexes", "navigation.sections", "navigation.tabs", "navigation.top", "navigation.tracking", "search.highlight", "search.share", "search.suggest", "toc.follow"], "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.a51614de.min.js"></script>
+      
+    
+  </body>
+</html>
